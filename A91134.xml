@@ -1,0 +1,2416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aurorata· By Thomas Prujean, student of Gonvile and Caius Colledge in Cambridge.</title>
+            <author>Prujean, Thomas, 1622 or 3-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91134</idno>
+            <idno type="STC">Wing P3885</idno>
+            <idno type="STC">Thomason E1164_1</idno>
+            <idno type="STC">ESTC R203216</idno>
+            <idno type="EEBO-CITATION">99863258</idno>
+            <idno type="PROQUEST">99863258</idno>
+            <idno type="VID">115448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 166:E1164[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aurorata· By Thomas Prujean, student of Gonvile and Caius Colledge in Cambridge.</title>
+                  <author>Prujean, Thomas, 1622 or 3-1662.</author>
+               </titleStmt>
+               <extent>[88] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hugh Perry neere Ivy Bridge in the Strand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A-E Fp4s.</note>
+                  <note>"Loves looking-glasse divine and humane" has separate dated title page; register is continuous.</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:115448:1" rendition="simple:additions"/>
+                  <p>AVRORATA. BY <hi>THOMAS PRVIE AN,</hi> Student of <hi>Gonvile</hi> and <hi>Caius</hi> Colledge in <hi>Cambridge.</hi>
+                  </p>
+                  <q>
+                     <lg>
+                        <l>Carmen amant Muſae, carmen Apollo beat.</l>
+                        <l>Nec decrit muſae Coelia pulchra me a.</l>
+                     </lg>
+                     <lg>
+                        <l>Ad Patrem ſuum chariſſinium</l>
+                        <l>Franciſcum Prujean Med. <hi>Drem,</hi>
+                        </l>
+                        <l>Officium dicat ſnums cum hoc T. P.</l>
+                     </lg>
+                     <lg>
+                        <l>Numina carmen habent. Tu praestas, ni mihi fallor</l>
+                        <l>Dicatur libro hoc carmen &amp; Officium.</l>
+                     </lg>
+                  </q>
+                  <p>LONDON, Printed for <hi>Hugh Perry</hi> neere Ivy Bridge in the Strand, 1644.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:115448:2"/>
+                  <pb facs="tcp:115448:2"/>
+                  <p>TO THAT FAVOVRER OF ARTS, The Right Honourable, the Counteſſe of <hi>Dorſet,</hi> Gover<g ref="char:EOLhyphen"/>neſſe to our moſt Illuſtrious Kings Children, &amp;c.</p>
+                  <p>THO. PRU. tenders with his hum<g ref="char:EOLhyphen"/>bleſt ſervice theſe few endeavours.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:115448:3"/>
+                  <head>To the true Patterne of Beauty and Ver<g ref="char:EOLhyphen"/>tue, the quinteſſences of all Perfection, my moſt honoured Couſins
+<list>
+                        <item>Miſtris <hi>Margaret St. George,</hi>
+                        </item>
+                        <item>Miſtris <hi>Mary St. George,</hi>
+                        </item>
+                        <item>Miſtris <hi>Katherine St. George,</hi>
+                        </item>
+                     </list> Of <hi>Hatley S<hi rend="sup">t</hi>. George,</hi> Health and Peace.</head>
+                  <opener>
+                     <salute>Honoured Couſins,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>T is the nature of a Marygold to open its leaves to none but the Sun, deſpiſing all other lights; And he, pleaſed with ſo true a ſervant, (though poore in all things elſe) ſhines more graci<g ref="char:EOLhyphen"/>ouſly upon it then any other. The pooreneſſe of my merit may well parallel me to this flower: And the rich portion of your favours (whoſe beames ex<g ref="char:EOLhyphen"/>cell that radiant Monarchs of the skie) you to him. My willingneſſe to ſerve you, your commands ſhall never de<g ref="char:EOLhyphen"/>ny to be equall to my Preſidents devotion to its Deity. Theſe endeavours you have been pleaſed to ſtile worthy a welcome at your faire hands, when they were tendered to kiſſe them. Doing ſo now, you will adde to the engage<g ref="char:EOLhyphen"/>ments of him who is</p>
+                  <closer>
+                     <signed>Your couſin and ſervant <hi>Thomas Prujean.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:115448:3"/>
+                  <head>POEMS.</head>
+                  <div type="poem">
+                     <head>To the memorie of Sir <hi>Philip Sidney.</hi>
+                     </head>
+                     <l>
+                        <seg rend="decorInit">S</seg>Ince that the world, owing ſo much to thee,</l>
+                     <l>Has paid ſo little, and thy memory</l>
+                     <l>Shines not with Rayes fit for it, Juſtice may</l>
+                     <l>Call us ungratefull; but bleſt <hi>Sidney</hi> ſtay,</l>
+                     <l>Thou playd'ſt the ſubtill thief, and with thy wit</l>
+                     <l>Haſt ſtolne the rich'ſt gems of <hi>Phoeb</hi>'s Cabinet.</l>
+                     <l>Wee court <hi>Minerva,</hi> and the nine Maids too,</l>
+                     <l>But they all bid us unto <hi>Sidney</hi> goe,</l>
+                     <l>
+                        <hi>Helicon</hi> is drunke up, <hi>Elixars</hi> ſpring</l>
+                     <l>Has now no <hi>Jove,</hi> but <hi>Sidney</hi> for its King.</l>
+                     <l>When we thinke for to waſh in <hi>Theſpia,</hi>
+                     </l>
+                     <l>It bids retreat, and to thee make our way.</l>
+                     <l>How can we deck thee with a verſe that will</l>
+                     <l>Make thy fame be more glorious, ſound more ſhrill?</l>
+                     <l>'Twere a preſumption, for to hope to be</l>
+                     <l>So great an artiſt in ſweet Poetry.</l>
+                     <pb facs="tcp:115448:4"/>
+                     <l>Can an earths <hi>Genius,</hi> as thou didſt, command</l>
+                     <l>The governours of bleſt <hi>Elizium's</hi> Land?</l>
+                     <l>If not, then Iet our Fancies humbly ſing</l>
+                     <l>Of <hi>Tamarisk's,</hi> not the onely <hi>Sylvian</hi> King.</l>
+                     <l>All I deſire is but to be a ſtatre,</l>
+                     <l>That may be in thy rule, though n'ere ſo farre:</l>
+                     <l>Let loftier minds, a higher pitch to be,</l>
+                     <l>Coope all their fancies in cares miſerie.</l>
+                     <l>Whil'ſt, thinking to make their formes ſo divine,</l>
+                     <l>They ſuddenly to chaos may decline.</l>
+                     <l>Yet this I will, which my ability</l>
+                     <l>Affords, admire, adore thy vuit and thee.</l>
+                     <l>And this I cannot doe, unleſſe thy light</l>
+                     <l>Makes me for to adore, admire thee, right.</l>
+                     <l>Reſt let thy foule, pardoning what my muſe</l>
+                     <l>May in thy vaſt <hi>Elyſium</hi> pick and chuſe:</l>
+                     <l>For what ſtrickt doome thou for't maiſt pleaſe to give</l>
+                     <l>Mee, will not ſcape thoſe, who beſt Poets live.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:4"/>
+                     <head>To the Right Honourable, the Coun<g ref="char:EOLhyphen"/>teſſe of <hi>Dorſet,</hi> Governeſſe to our moſt Illuſtrious Kings Children, on the opening of the New-yeare.</head>
+                     <l>THe new yeare's come, and wiſht for <hi>Sol</hi> appeares</l>
+                     <l>Claſpt in <hi>Aurora's</hi> arms: His radiant Spheares</l>
+                     <l>Want nothing (Madam) for to make them give</l>
+                     <l>Their perfect luſtre, but your ſaying live.</l>
+                     <l>If you but frowne, it is enough to bring</l>
+                     <l>Deformed Chaos to be natures King.</l>
+                     <l>And for that cauſe 'tis not reſolv'd on yet,</l>
+                     <l>Whether a night or day ſhall finiſh it.</l>
+                     <l>The fate is in your pow'r. I feare 'twill bee</l>
+                     <l>Our ſable Monarch, gets the victory:</l>
+                     <l>Since th' other in its very infant riſe</l>
+                     <l>Does offer here ſo poore a ſacrifice.</l>
+                     <l>What can be rich, if that it wants your eye</l>
+                     <l>To guide it to ſo bleſt a treaſurie?</l>
+                     <l>Where lyes a Poets fame, but in the hearſe,</l>
+                     <l>Whilſt (Madam) you be pleas'd to read his verſe,</l>
+                     <l>And ſmile upon't? 'tis you can onely raiſe</l>
+                     <l>The tender ſprigge, and make't a flouriſhing baiſe.</l>
+                     <l>Then let your beames ſhoot forth. Let ſullen night</l>
+                     <l>Preſume no more upon your happy light.</l>
+                     <l>Breake through all clouds, and in my being blest</l>
+                     <l>
+                        <hi>Sol</hi> in his or be enjoyes a happy reſt.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:5"/>
+                     <head>To <hi>Coelia</hi> a Rapture.</head>
+                     <lg n="1">
+                        <head>1.</head>
+                        <l>Smile <hi>Coelia,</hi>
+                        </l>
+                        <l>And give the world a Robe of light, that day</l>
+                        <l>may glide away,</l>
+                        <l>And crave of night to let her have a cloud</l>
+                        <l>To be her ſhroud;</l>
+                        <l>Bluſhing in envy for to bee</l>
+                        <l>excel'd by thee.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Make the Sun's Prieſt</l>
+                        <l>Forſake his beames, and turne to where thou beeſt.</l>
+                        <l>Force him to neſt</l>
+                        <l>Himſelfe within a ſhade, to which his love</l>
+                        <l>A Foe did prove.</l>
+                        <l>That then the heavens may take't and place</l>
+                        <l>It where he was.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Make <hi>Atlas</hi> feare</l>
+                        <l>The Burthen is on earth, that hee ſhould beare,</l>
+                        <l>When you appeare.</l>
+                        <l>Make all the Gods deſcend to court your ſhrine</l>
+                        <l>VVith that one ſhine;</l>
+                        <l>And when they're come, ſay this is my</l>
+                        <l>Felicitie.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:5"/>
+                     <head>To my Booke going to <hi>Coelia.</hi>
+                     </head>
+                     <l>GOe Booke, enjoy thy happineſſe,</l>
+                     <l>'Tis <hi>Coelia</hi>'s hand, that thou muſt kiſſe:</l>
+                     <l>'Tis <hi>Coelia's</hi> eye, that now will ſhine</l>
+                     <l>Upon thee; what is more divine?</l>
+                     <l>Some <hi>Momus,</hi> or ſome envious brat</l>
+                     <l>May ſay thy maſter is a chat,</l>
+                     <l>And not a Poet; tell'em then</l>
+                     <l>That <hi>Coelia</hi> likes my Rugged Pen;</l>
+                     <l>And who dares ſhew a rigid Front,</l>
+                     <l>When cheerfully ſhe lookes upon't?</l>
+                     <l>Her eare perhaps may let thy verſe</l>
+                     <l>Into it, then my love rehearſe.</l>
+                     <l>Whiſper my ſighs, whiſper my teares,</l>
+                     <l>Which guide the minutes in their ſphears.</l>
+                     <l>Whiſper my wounds, and tell her how</l>
+                     <l>Much in her ſending Balme ſhee's ſlow:</l>
+                     <l>Yet whiſper not her cruell, ſhee</l>
+                     <l>May anſwer that my deſtiny</l>
+                     <l>Equalls not hers; and ſo I am</l>
+                     <l>Not worthy of her ſervants name.</l>
+                     <l>Tell her, divineneſſe ſtrives to bee</l>
+                     <l>Companion with bleſt Pietie;</l>
+                     <l>And if true vowes will make me prove</l>
+                     <l>So, ſhee ſhall have them in my love.</l>
+                     <l>Say to her, <hi>Cynthia</hi> will give</l>
+                     <l>Rayes to baſe earth; why ſhould I live</l>
+                     <pb facs="tcp:115448:6"/>
+                     <l>Like to a hated ſhade? ſay ſhee</l>
+                     <l>Lets, all that freedome have but mee;</l>
+                     <l>Though, like the Marygold, I bend</l>
+                     <l>My heart to where ſhee beams doe ſend.</l>
+                     <l>But tell her if I chance to dye,</l>
+                     <l>Shee loſes love, though't liv'd in mee.</l>
+                  </div>
+                  <div type="poem">
+                     <head>On the ſpring to <hi>Caelia.</hi>
+                     </head>
+                     <l>TIs thee (faire <hi>Caelia</hi>) on whom nature has</l>
+                     <l>Beſtow'd that deity, which <hi>Flora's</hi> was.</l>
+                     <l>Her little young ones haſte out of her wombe</l>
+                     <l>To take the bleſſings, which from thee may come.</l>
+                     <l>The morne and her lov'd <hi>Phoebus</hi> dare no more</l>
+                     <l>Send them their radiant kiſſes when the ſtore</l>
+                     <l>Of thy high Luſtre comes, nor the lov'd ſweet</l>
+                     <l>Of <hi>Zephyr</hi> fall upon them, when a fleet</l>
+                     <l>Thou ſendeſt from thy breath, their mother dares</l>
+                     <l>Scarce ſay ſhee gave them being: ſo appeares</l>
+                     <l>Thy greatneſſe in perfection. Glance t'will bee</l>
+                     <l>More, then theſe lights can give if't come from thee.</l>
+                     <l>Let one of thy Gales bee ſent <hi>(Caelia)</hi>
+                     </l>
+                     <l>Th' perfuming winde for ſhame will ſteale away.</l>
+                     <l>Yet my deſire is, that thou wouldſt not bee</l>
+                     <l>Laviſh to any in ſuch gifts but mee.</l>
+                     <l>Let it ſuffice, that the bright ſun and morne</l>
+                     <l>Shines' ore them, teach them not the ſouth to ſcorne.</l>
+                     <pb facs="tcp:115448:6"/>
+                     <l>But let mee have't twill make me immortall grow,</l>
+                     <l>Thy light, thy ſweets, if thou canſt ſtoope ſo low.</l>
+                  </div>
+                  <div type="poem">
+                     <head>To Doctor <hi>Gill</hi> on calling mee his friend</head>
+                     <l>Tis to thee <hi>Gill,</hi> I ſend, and though my verſe</l>
+                     <l>Has not a Gemme fit for <hi>Guſtavus</hi> hearſe:</l>
+                     <l>Yet I can deck a <hi>Phillis;</hi> and it is</l>
+                     <l>That ſure which made mee gaine the happineſſe</l>
+                     <l>Of thy rich Friend-ſhip. <hi>Mars</hi> did daigne to ſtile</l>
+                     <l>Each light a bliſſe that came from <hi>Venus</hi> ſmile.</l>
+                     <l>Nor can I read that hee thought Lemniack Arms</l>
+                     <l>More worthy of him, then the Paphian Charmes.</l>
+                     <l>Let it not then beget a bluſh in thee,</l>
+                     <l>That this thy warlike fancie choſe out mee.</l>
+                     <l>Thou ador'ſt <hi>Mars,</hi> and I the Queene of love.</l>
+                     <l>To imitate him, thou my Friend ſhouldſt prove.</l>
+                  </div>
+                  <div type="poem">
+                     <head>A Paſtorall Poem.</head>
+                     <l>SHine (faire <hi>Clorinda</hi>) let thy <hi>Silvius</hi> ſee</l>
+                     <l>No more Eclipſes, but of miſerie.</l>
+                     <l>Shoote forth thy beams, that the proud boaſting day</l>
+                     <l>May then confeſſe her every borrowed ray.</l>
+                     <l>Let not the Eaſterne King forſake thy ſight;</l>
+                     <l>For he will (ſurely) yield thou gaveſt him light.</l>
+                     <pb facs="tcp:115448:7"/>
+                     <l>Why ſhould that face bee ſubject to a cloud.</l>
+                     <l>Which beauty ever yet hath made its ſhroud?</l>
+                     <l>Did nature take ſuch paines? was all this done</l>
+                     <l>To bee a prey to baſe oblivion?</l>
+                     <l>Here is my verſe; and though it treats of thee,</l>
+                     <l>The onely erectreſſe of this war in mee,</l>
+                     <l>Yet, rather then it ſhould have ſuch a doome,</l>
+                     <l>My fancie, and my ſelfe ſhould have a tombe.</l>
+                     <l>An Architect has never a deſire</l>
+                     <l>To ſee his worke, as ſoone as done, expire.</l>
+                     <l>Shee is the chiefeſt, and thy ſelfe doth prove</l>
+                     <l>How much ſhe is with a bleſt fame in love.</l>
+                     <l>Thou once could'ſt wound, and canſt thou not again</l>
+                     <l>Appeare as glorious, as th' appear'dſt then?</l>
+                     <l>Thou firſt do'eſt captive, but the ſecond time</l>
+                     <l>Thou'lt mount my fate unto its wiſht for clime</l>
+                     <l>That is when th' holy Rhetoricke of thine eye</l>
+                     <l>(Fathom'd) ſhowes thou wilt my <hi>Clorinda</hi> be.</l>
+                  </div>
+                  <div type="poem">
+                     <head>To <hi>Coelia</hi> on tendring her troſſes.</head>
+                     <l>THe ordour of theſe is beneath</l>
+                     <l>That which comes from your heavenly breath;</l>
+                     <l>Then not as adders, take and prize,</l>
+                     <l>But as to your breath a ſacrifice.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:7"/>
+                     <head>To my worthy Maſter Mr. <hi>Webbe</hi> Maſter in Muſicke and the Kings ſervant, <hi>&amp;c.</hi>
+                     </head>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <l>THough my iuyce runs not within a lake</l>
+                     <l>Which from an <hi>Orphens</hi> may ſome bleſſings take;</l>
+                     <l>Though my reed has had the hard fate to play</l>
+                     <l>Diſſonant to you; yet my <hi>Coelias</hi> Ray</l>
+                     <l>Has made mee ſo much happy, as to bee</l>
+                     <l>A harbourer of you in my Poetry.</l>
+                     <l>All, I entreat, is that you would but pleaſe</l>
+                     <l>To give theſe warbles of their bluſhes eaſe.</l>
+                     <l>My pipe is yet a virgin, and the feare</l>
+                     <l>Of a preſumption makes the redds appeare:</l>
+                     <l>So much within its notes: ſay you tis well,</l>
+                     <l>And thats enough the crimſon to expell.</l>
+                  </div>
+                  <div type="poem">
+                     <head>On my doubting <hi>Coelia</hi> had bin dead.</head>
+                     <l>YEt I'le not ſay death has her; leſt that day</l>
+                     <l>Crave an entombing with her, and night ſway</l>
+                     <l>The ſcepter in <hi>Elyſiums</hi> floare; then would</l>
+                     <l>Th'earth-nouriſhing eye a darker empire hold.</l>
+                     <l>Death would proclaime it only that he might</l>
+                     <l>Graſpe in his earthly armes dame natures light.</l>
+                     <pb facs="tcp:115448:8"/>
+                     <l>But if 't be ſo, give the birds leave to have</l>
+                     <l>The happineſſe of chirping her to grave,</l>
+                     <l>And not the dull note of one<note n="*" place="bottom">The country bell.</note> bell: let then</l>
+                     <l>The flowers that liv'd by her, ſo dye, that when</l>
+                     <l>They yield their ſweets and colours, all may know</l>
+                     <l>They give her hearſe but what they to her ow.</l>
+                     <l>I have a debt to pay her for a flame</l>
+                     <l>Which from her eyes unto my poore breſt came.</l>
+                     <l>Yet tis not ſo: would heav'n give leave to death</l>
+                     <l>In ſuch a one to make his dart a ſheath?</l>
+                     <l>Would they let ſuch a one bee vermins foode,</l>
+                     <l>Whoſe beauty, ſweetnes and whoſe all o're good</l>
+                     <l>They kept ſo for their palace? if 't bee ſo,</l>
+                     <l>Some gentle fame give mee the bliſſe to know.</l>
+                     <l>I come (my <hi>Coelia</hi>) death being bleſt with thee</l>
+                     <l>Where can I have, but there felicitie?</l>
+                  </div>
+                  <div type="poem">
+                     <head>On the death of that beauteous virgin Miſtris <hi>Eliz: Farmerie,</hi> daughter to the right Worſhipfull my moſt honoured friend <hi>John Farmerie</hi> Dr. in Law, Chancellour of <hi>Lincolne,</hi> &amp;c.</head>
+                     <l>TIs not enough to weepe. for if it were</l>
+                     <l>Nature would bee diſſolved into a teare:</l>
+                     <l>Fancy would glory, if that it could bring</l>
+                     <l>Pure <hi>Helicon</hi> to bee a briny ſpring.</l>
+                     <pb facs="tcp:115448:8"/>
+                     <l>Perhaps, deare beauty, thou didſt only come</l>
+                     <l>To teach how we ſhould know <hi>Elyſium.</hi>
+                     </l>
+                     <l>Tis our parts then to ioy, not weep, that we</l>
+                     <l>Had the bleſt ſight of ſuch felicitie.</l>
+                     <l>Heaven will not be leſſe glorious, and, to grieve</l>
+                     <l>For thy departure hence, a cauſe may give</l>
+                     <l>Of kindling wrath in it, becauſe we goe</l>
+                     <l>(For thy being theirs) the Pilgrimage of woe.</l>
+                     <l>We ſaw the Sun, the moone, the Stats, when life</l>
+                     <l>Was pleaſd to name thy divine ſelfe it's wife.</l>
+                     <l>We ſaw thy eyes, too, in whoſe every glance</l>
+                     <l>A greater luſtre, then theirs, ſeemd to dance:</l>
+                     <l>Beauty wee ſee, which once <hi>Apelles</hi> drew,</l>
+                     <l>But never ſuch as did appeare in you.</l>
+                     <l>We ſmelt <hi>Arabia,</hi> yet far beneath</l>
+                     <l>Was it, in our thoughts, thy celeſtiall breath.</l>
+                     <l>Wee perus'd vertues actions, but by thee</l>
+                     <l>Wee thought her exceld in divinity.</l>
+                     <l>In brightnes, beauty, ſweetneſſe, vertue, all</l>
+                     <l>Might thee their only great example call.</l>
+                     <l>Is it prophane to ſorrow for thee? How</l>
+                     <l>Will that ſin fill the world, when as they know</l>
+                     <l>That thou art gone? though wee joy for their bliſſe,</l>
+                     <l>Wee muſt needs ſigh, when wee knew what it is</l>
+                     <l>That is fled from us. Ti's the ſweeteſt faire,</l>
+                     <l>Death gave heaven light, while we here darkned are.</l>
+                     <l>And then my candle went out.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:9"/>
+                     <head>On the death of my moſt honoured vncle <hi>William Prujean</hi> Doctor in Phiſicke, <hi>&amp;c.</hi>
+                     </head>
+                     <l>THus does our bliſſe decline; thus does deaths ſhade</l>
+                     <l>Mufle the luſtre of each <hi>Theſpian</hi> maide;</l>
+                     <l>Thus does <hi>Apollo</hi> loſe his radiant dreſſe,</l>
+                     <l>Thus <hi>Aeſculapii</hi> looſe their happineſſe.</l>
+                     <l>In thy bleſt aſh what does not buryed ly,</l>
+                     <l>That may give gods and men felicity?</l>
+                     <l>Why are you tardy, when you ſhould appeare</l>
+                     <l>And teach mee how to bleede a worthy teare?</l>
+                     <l>Or make ſweete <hi>Ovid</hi> burſt out of his cell</l>
+                     <l>To bring your griefe to fame? me thinks they tell</l>
+                     <l>Mee that thou art not dead; proud deſtiny</l>
+                     <l>Has but thy ſhroude of fleſh, not memorie;</l>
+                     <l>T'is only wee that loſe-thee, now th'art gone</l>
+                     <l>From us, the glory comes to them alone.</l>
+                     <l>But ſince thy merits ſo celeſtiall were,</l>
+                     <l>They might have made thy nature a bleſt Starre:</l>
+                     <l>For what thou had'ſt was counted ſo divine,</l>
+                     <l>That it could nee're in too much glory ſhine.</l>
+                     <l>Yet, while my verſe has life, nothing ſhall bee,</l>
+                     <l>That's thine, a ſlave to more obſcurity.</l>
+                  </div>
+                  <div type="poem">
+                     <head>On my hearing that <hi>Coelia</hi> was dead.</head>
+                     <l>VVHat is ſhee dead? 1'ſt not enough to bee</l>
+                     <l>A ſlave to love, but muſt ſuch miſery</l>
+                     <pb facs="tcp:115448:9"/>
+                     <l>Claime my tears too? helpe me yee Nymphs to make</l>
+                     <l>My taske an end; If your cleere cryſtall lake</l>
+                     <l>Meets but my ſtreame, I may perhaps compoſe</l>
+                     <l>A ſacrifice moſt fitting for my woes.</l>
+                     <l>But durſt fate ſeiſe upon thee? could he tell</l>
+                     <l>Thy heavenly body from thy ſoule ſo well?</l>
+                     <l>Did it excell earths guilder? did it keepe</l>
+                     <l>(As my bleſt <hi>Coelia</hi> did) that light a ſleepe,</l>
+                     <l>The while it durſt appeare? As did his eye</l>
+                     <l>When a poore taper would his viewer be?</l>
+                     <l>Did it excell the richeſt ſacrifice,</l>
+                     <l>Which upon <hi>Venus</hi> alter ever lyes?</l>
+                     <l>If ſo, yet more I can report of her,</l>
+                     <l>That goddeſſe did not ſuch bright beauty weare.</l>
+                     <l>'Tis ſhee, her prieſts did court, they would have had</l>
+                     <l>
+                        <hi>Venus</hi> no more, but (o') this divine maide.</l>
+                     <l>When ſhee's a making ready for to goe</l>
+                     <l>To earths rugg'd lodge, this ſweet nymphs for mee doe,</l>
+                     <l>Dreſſe not her hearſe with lillies, let no flower</l>
+                     <l>Boaſt it e're was in my faire <hi>Coelias</hi> bower.</l>
+                     <l>But make your bluſhes ſerve, and for the white</l>
+                     <l>Your glance though ſorrowes will give more delight:</l>
+                     <l>Shee has perfume enough ſtill left be hind</l>
+                     <l>(Though thus) to give unto each mournful wind:</l>
+                     <l>Sing in her dirge, that ſhe both lov'd, and is</l>
+                     <l>(Of him, that lov'd her) the beſt gemm of bliſſe.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:10"/>
+                     <head>On my ſtealing a kiſſe from Coelia aſleepe.</head>
+                     <head type="sub">Arapture</head>
+                     <l>NO more let vaine <hi>Prometheus</hi> boaſting cry</l>
+                     <l>Hee ſtole the fire, which made man perfect bee,</l>
+                     <l>For had he but enjoyed ſuch a bliſſe,</l>
+                     <l>Hee would have ſworne that heat in <hi>Coela's</hi> lyes.</l>
+                     <l>Still let ſweet ſleepe embrace thee, whilſt, thus, I</l>
+                     <l>Create my ſelfe a ſecond deity.</l>
+                     <l>How they doe erre, who ſay a clouded light</l>
+                     <l>Preſages nothing but a diſmall night!</l>
+                     <l>For that, which on my <hi>Coelia's</hi> luſt're lay,</l>
+                     <l>Guided mee to the only trueſt day.</l>
+                     <l>A day, which, if I alwaies might poſſeſſe,</l>
+                     <l>Would yeeld mee more, then earthly happineſſe.</l>
+                  </div>
+                  <div type="poem">
+                     <head>On my Coelia being ſicke.</head>
+                     <l>CAnſt thou bee ſicke? dares pallidneſſe proclaime</l>
+                     <l>Him King, and make the roſes loſe their name?</l>
+                     <l>Calls he not th' lilly queene? and dares hee take</l>
+                     <l>Poſſeſſion of what ſhee her throne does make?</l>
+                     <l>How haſt thou loſt thy beauty, which of late</l>
+                     <l>The gods were pleas'd to ſtile their only kate?</l>
+                     <l>Thou never waſt a wanton unto <hi>Iove,</hi>
+                     </l>
+                     <l>Nor didſt deſire to bee <hi>Adonis</hi> love:</l>
+                     <pb facs="tcp:115448:10"/>
+                     <l>That the two jealous minions might revenge</l>
+                     <l>Thy wicked deede with ſuch a ſodaine change.</l>
+                     <l>Neither can they report that thou didſt ſteale</l>
+                     <l>Celeſtiall fire to make perfection well.</l>
+                     <l>Nor didſt thou borrow glory. If there be</l>
+                     <l>Ought to be payd, it is by them to thee.</l>
+                     <l>Let mee goe cavill with the deſtinie</l>
+                     <l>That durſt ſtirr up heavens powers to this decree:</l>
+                     <l>Did not her luſtre helpe the radiant Sun,</l>
+                     <l>Still ſhining bright when as his courſe was done,</l>
+                     <l>Did not your <hi>Cynthia</hi> robe her leſſer lights,</l>
+                     <l>And her ſelfe too with her ſtolne ſmiles by nights?</l>
+                     <l>But (ah!) I ſee the cauſe. <hi>Iuno</hi> did feare</l>
+                     <l>That <hi>Iove</hi> had got another lo heare.</l>
+                     <l>Loves mother, hearing of thy worth, was in</l>
+                     <l>A iealous fit, leaſt <hi>Cupid</hi> ſhould agen</l>
+                     <l>Court <hi>Pſyche</hi> in thee: And for this they made</l>
+                     <l>
+                        <hi>Pandora</hi> give thy beauty ſuch a ſhade.</l>
+                     <l>Poore plotters! thinke yee, that while you do ſhine?</l>
+                     <l>Light will not ſacrifice to ſuch a ſhrine?</l>
+                     <l>Can there be flowers, and not a <hi>Flora</hi> live?</l>
+                     <l>Or can your heaven without her <hi>Zephyr</hi> give?</l>
+                     <l>What is divine, what good, will ſtrive to bee</l>
+                     <l>In the ſame urne where <hi>Coelias</hi> aſhes ly.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:11"/>
+                     <head>To <hi>Coelia</hi> in ſaying ſhe would not love.</head>
+                     <l>VVIlt thou not love? O! can there be</l>
+                     <l>In ſuch a heaven lodg'd tyranny?</l>
+                     <l>Will <hi>Venus,</hi> when ſhee burnes; not give</l>
+                     <l>Her young <hi>Adonis</hi> leave to live?</l>
+                     <l>But let his flame conſume him? will</l>
+                     <l>Shee, what ſhee only loves, goe kill?</l>
+                     <l>'Tis not thy hearts command. In thee</l>
+                     <l>I finde a happier deſtinie.</l>
+                     <l>Perhaps thou faine would'ſt bed with <hi>Jove,</hi>
+                     </l>
+                     <l>Or have a <hi>Phoebus</hi> court thy love:</l>
+                     <l>Celeſtiall powers may onely ſtile</l>
+                     <l>Them worthy of faire <hi>Coelia's</hi> ſmile.</l>
+                     <l>Can no way make this earth become</l>
+                     <l>A ſecond bleſt <hi>Elyſium?</hi>
+                     </l>
+                     <l>And man divine? thy ſelfe's enough</l>
+                     <l>The firſt of theſe two for to prove.</l>
+                     <l>Can <hi>Coelia</hi> live, and the ſweet place</l>
+                     <l>Which keepes her be deny'd its grace?</l>
+                     <l>Holineſſe makes a God. Can I</l>
+                     <l>Be tearm'd prophane that thinke of thee?</l>
+                     <l>Why did that wanton then above,</l>
+                     <l>Conſecrate thoughts to <hi>Io's</hi> love?</l>
+                     <l>Why did <hi>Apollo</hi> hunt about</l>
+                     <l>To finde the chaſt <hi>Diana</hi> out?</l>
+                     <l>Did not rigid warres God pleaſe,</l>
+                     <l>When he thought on the <hi>Paphian</hi> eaſe?</l>
+                     <pb facs="tcp:115448:11"/>
+                     <l>This was amongſt them all ſo free,</l>
+                     <l>That 'twas at th'laſt call'd pietie.</l>
+                     <l>In it I will them equall. My</l>
+                     <l>Thoughts onely ſhall on <hi>Coelia</hi> be.</l>
+                     <l>Now thou maiſt render love for love,</l>
+                     <l>For I, by this, divine ſhall prove.</l>
+                  </div>
+                  <div type="poem">
+                     <head>
+                        <hi>Coelia Lucens,</hi> or beauty's glory.</head>
+                     <l>'TWas at that time (when night no <hi>Cynthia</hi> had,</l>
+                     <l>But of my <hi>Coelia's</hi> light her ſpangles made,</l>
+                     <l>And nam'd her governeſſe of all that ſphere,</l>
+                     <l>When to <hi>Elyſium</hi> we both ſwimming were,</l>
+                     <l>Our oares embraces, thoughts the boate, our love</l>
+                     <l>The <hi>Charon</hi> to our ſweet deſires did prove;</l>
+                     <l>When care was lul'd) that in a rapture I</l>
+                     <l>Fancy'd my goddeſſe in this majeſtie?</l>
+                     <l>Amidſt a troope of Angels was a throne</l>
+                     <l>Plac'd, which, as I ſuppos'd, ſhe ſate upon;</l>
+                     <l>A robe ſhe wore ſtuck all with virgins ſmiles,</l>
+                     <l>Given, when they hop'd to leave <hi>Diana's</hi> ſtiles.</l>
+                     <l>A crowne that did all naturall gemmes deſpiſe,</l>
+                     <l>Deckt with the brightneſſe of true lovers eyes.</l>
+                     <l>Ador'd by all. <hi>Cupid</hi> at laſt came in,</l>
+                     <l>And for to crave her bleſſing did begin.</l>
+                     <l>Then did he thinke her ſtraight the lovely ſhee,</l>
+                     <l>To whom he once did yeeld his deitie.</l>
+                     <pb facs="tcp:115448:12"/>
+                     <l>Shee who the wounder wounded, and againe</l>
+                     <l>Felt revell every where another paine:</l>
+                     <l>With that he askt her if ſhee would forgive,</l>
+                     <l>And ſhe Poſſeſteſſe of his power ſhould live.</l>
+                     <l>His bowe he left, and quiver with her, hee</l>
+                     <l>Forſooke the place, and then the fancy me,</l>
+                     <l>Shee thought to couſen me, and ſhot a dart,</l>
+                     <l>(As if another wounded) at my heart.</l>
+                     <l>But then I cry'd, what's this? A pin? thy eye</l>
+                     <l>My <hi>Coelia</hi> onely can my wounder bee.</l>
+                     <l>Then did we kiſſe, and in this dalliance lay,</l>
+                     <l>Whilſt once more night had almoſt o'rerun day.<note n="*" place="bottom">Pſycha.</note>
+                     </l>
+                  </div>
+                  <div type="poem">
+                     <head>A Riddleon <hi>Coelia.</hi>
+                     </head>
+                     <l>OF earth I am, yet have a light</l>
+                     <l>Brighter then's ſhot from <hi>Cynthia's</hi> ſight.</l>
+                     <l>Dame Nature fram'd me, yet I have</l>
+                     <l>As great report as Fame Gods gave</l>
+                     <l>VVhen once my favours ſhine, it is</l>
+                     <l>Tearm'd equall with th'AEthereall bliſſe</l>
+                     <l>For to receive their beame, I give</l>
+                     <l>VVith ſmiles felicitie, to live</l>
+                     <l>In which diviner powers would be</l>
+                     <l>Earths tenants and pilgrims to me:</l>
+                     <l>All this I am, all this I doe,</l>
+                     <l>And they that know me will ſay ſo.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:12"/>
+                     <head>An Acroſticke on my moſt reſpected Conſin, Miſtris <hi>MARGARET S<hi rend="sup">t</hi>. GEORGE.</hi>
+                     </head>
+                     <l>Mirrours delight! Darling to what may be</l>
+                     <l>Aſtemme in vertue! beauty's treaſurie!</l>
+                     <l>Rich too in Lawrell, and that ſacred fame</l>
+                     <l>Grafts envie in the Siſters at your name.</l>
+                     <l>Affraid they be, leſt the world for your muſe</l>
+                     <l>
+                        <hi>Romes</hi> pride ſhould damne, and you their Primate chooſe.</l>
+                     <l>Envious at your beſt fate! it is a ſhee,</l>
+                     <l>That with her fame bedecks your Lawrell tree.</l>
+                     <l>See holy Maides, be proud, your luſtre's bright,</l>
+                     <l>As if by fame you never had a night.</l>
+                     <l>Injoy your gemme of happineſſe, and let</l>
+                     <l>No more baſe envy o're you triumph get:</l>
+                     <l>The glory is ſole yours. And you! Shee,</l>
+                     <l>Grac'd with true beauty, and <hi>Phoebean</hi> glee,</l>
+                     <l>Ever ſhine as you doe: And ſince I did</l>
+                     <l>O'recome all richer fancies, with my ſpeed;</l>
+                     <l>Rehearſing of your too long darkened worth;</l>
+                     <l>Grant me your ſmiles to deck my verſe, and I</l>
+                     <l>Entitl'c dare the beſt of Poetrie.</l>
+                  </div>
+                  <div type="poem">
+                     <head>A Rapture on Coelia.</head>
+                     <l>O! can the gods claime thankes for th'light</l>
+                     <l>They gave us mortalls, when the bright</l>
+                     <l>Splendour of <hi>Coelia</hi> does beſtow</l>
+                     <l>Its ſparkes upon their deities? No,</l>
+                     <pb facs="tcp:115448:13"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:115448:13"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:115448:14"/>
+                     <l>Their light does only nature guild,</l>
+                     <l>VVith hers, both it and they are fil'd.</l>
+                  </div>
+                  <div type="poem">
+                     <head>To Her.</head>
+                     <l>
+                        <hi>AVrora's</hi> bluſh with n<g ref="char:punc">▪</g> envie ſtaine</l>
+                     <l>Thy purer Soule, becauſe they faine</l>
+                     <l>It all's example, did they view</l>
+                     <l>Thy cheekes, they'd ſweare they never knew</l>
+                     <l>The lines they writ. Then Fame would ſay,</l>
+                     <l>Thy earth is an <hi>Arcadia.</hi>
+                     </l>
+                  </div>
+                  <div type="poem">
+                     <head>An Acroſticke on my honoured couſin Miſtris <hi>MARY S<hi rend="sup">t</hi>. GEORGE.</hi>
+                     </head>
+                     <l>Mixtures (whoſe meeting makes Dame natures paine</l>
+                     <l>A greater palme, then that of heavens gaine)</l>
+                     <l>Reſt in this beauteous mould. All vertues have</l>
+                     <l>Inricht them in her ſo, that they might crave</l>
+                     <l>Each one a title, being equall to</l>
+                     <l>Such as the gods doe give their actions now.</l>
+                     <l>A one ſhe is, whom wonder cannot make</l>
+                     <l>Its ſeat too much. Such things doe harbour take</l>
+                     <l>Neſted within her forme and minde: He is</l>
+                     <l>Tearm'd above happy, whom her favours bliſſe.</l>
+                     <l>Grac'd ſhe is ſo, that for to be her ſlave</l>
+                     <l>Each higher powre would their palace leave.</l>
+                     <l>O! had loves god once view'd her, he would be</l>
+                     <l>Richer in that then in his deitie.</l>
+                     <l>Give her a looke, and thou wilt ſay all this</l>
+                     <l>Encompaſſeth not what her merit is.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:14"/>
+                     <head>Another on my Couſin <hi>KATHERINE.</hi>
+                     </head>
+                     <l>Know (Reader) ſhe, whom I ſing, hath</l>
+                     <l>A beauty, would beget a faith,</l>
+                     <l>That with its charme would make the Gods</l>
+                     <l>Her Courtiers, and with no ſmall ods</l>
+                     <l>Each to be firſt would ſtrive; Nay give</l>
+                     <l>Rich immortalitie to live</l>
+                     <l>In her high favour, whilſt a day</l>
+                     <l>Nights triumph might become: the ray</l>
+                     <l>Even of <hi>Phoebus</hi> ne're does ſhine</l>
+                     <l>So glorious, as this theame of mine</l>
+                     <l>At his loves ſight, ſuch glory ne're</l>
+                     <l>In <hi>Io</hi> did <hi>Jove</hi> ſee appeare.</l>
+                     <l>Not <hi>Venus,</hi> though ſhe may be ſaid</l>
+                     <l>The beauty of heaven. She has a ſhade</l>
+                     <l>Gain'd by her luſt, which covers that</l>
+                     <l>Entitled hers; Mine ſuch doe hate.</l>
+                     <l>On her chaſt breſt no thought does lye</l>
+                     <l>Rul'd by a foe to pietie:</l>
+                     <l>Grac't is my Poem that has its frame</l>
+                     <l>Enricht with her c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eleſtiall name.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:15"/>
+                     <head>To my moſt honoured Couſin Miſtris <hi>Katherine St. George.</hi>
+                     </head>
+                     <l>DId nature when ſhe fram'd you make a ſcorne.</l>
+                     <l>Of reaſons counſell? that thus to adorne</l>
+                     <l>You ſhe hath thought it fit, or when your ſhrine</l>
+                     <l>Had got a being, did not ſhe incline</l>
+                     <l>Somewhat to pride? and therefore let you bee</l>
+                     <l>VVith all her glory? giving n'ere aſhee</l>
+                     <l>Ought but her neceſſaries: ſhe did buy</l>
+                     <l>Her pride at ſuch a rate, as 'twas too high</l>
+                     <l>For her to give. All whom your glorious light</l>
+                     <l>Shoots its firſt ſplendour to, are at the ſight</l>
+                     <l>Become their ſmile's whom ſoules doe leave,</l>
+                     <l>Till from a ſecond they themſelves receive.</l>
+                     <l>VVhen <hi>Io</hi> was kept from her wantons wife,</l>
+                     <l>And made with brutes al wayes to ſpend her life,</l>
+                     <l>Sure Nature ſtole the beauty which ſhe had,</l>
+                     <l>VVhen as ſhe honoured the little Maid:</l>
+                     <l>VVith taking it upon her, to beſtow</l>
+                     <l>It on the ſex of women: but I know</l>
+                     <l>Not what unleſſe 'twas pride which made her give</l>
+                     <l>It all to you<g ref="char:punc">▪</g> hoping for to outlive</l>
+                     <l>The gods in fame. And ſure what ſhe hath done,</l>
+                     <l>Has from them the great palme of glory won.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:15"/>
+                     <head>To a proud ugly girle.</head>
+                     <l>TEmpt not opinions blaſts for ſhe will blow</l>
+                     <l>No courtiers phraſes, but the world ſhall know</l>
+                     <l>The naked truth. And thy fine ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ian face</l>
+                     <l>Shall have diſplayed all its merited grace.</l>
+                     <l>Then ſhall the taylors being brib'd appeare,</l>
+                     <l>The barbors ivery, which for teeth you weare.</l>
+                     <l>The painted image which you have to maske</l>
+                     <l>Your count'nance with ſhall then be cald to taske.</l>
+                     <l>Nothing will ſcape her trumpet, which to make</l>
+                     <l>Keepe ſilence, tis beſt you your pride forſake.</l>
+                     <l>Entertaine vertue and in that excell</l>
+                     <l>Or thy fame wilbe worſe then hers in hell.</l>
+                  </div>
+                  <div type="poem">
+                     <head>On my moſt honoured couſin <hi>Mrs. Katherine St George.</hi>
+                     </head>
+                     <l>Foole that I am! to thinke the poets faine</l>
+                     <l>The phenix. when I ſee her alwayes raigne!</l>
+                     <l>Sprung from the aſhes of that glorious dame</l>
+                     <l>Whoſe dechs the bloods of <hi>Greece</hi> and <hi>Troy</hi> became.</l>
+                     <l>Or from the holy reliques in the vrine,</l>
+                     <l>Where all perfection once was ſayd to burne!</l>
+                     <l>He that can frame a fictions and expreſſe</l>
+                     <l>In't the true manner of a beauteous dreſſe,</l>
+                     <l>Enioyes have, for his reward a crowne of bay</l>
+                     <l>And is intitled darling of <hi>Phoebes</hi> nay</l>
+                     <l>What merit I then that can vow a verſe</l>
+                     <pb facs="tcp:115448:16"/>
+                     <l>To him, and in it, for faign'd, truth reherſe?</l>
+                     <l>Had but <hi>Narciſſus,</hi> that ſelf-loving boy,</l>
+                     <l>Viewed her, hee would have bluſht at his fond ioy,</l>
+                     <l>Confeſſing that in her celeſtiall face</l>
+                     <l>Hee is exceld in a poore atoms place.</l>
+                     <l>Or had the lovely <hi>Venus</hi> ſeene this bliſſe,</l>
+                     <l>Shee would have loathed at her wantoneſſe;</l>
+                     <l>For did this once ſhine by her, ſhe would ſeeme</l>
+                     <l>So much deformed, in her owne eſteeme,</l>
+                     <l>As ſhe would thinke her goddeſſe-hood was given,</l>
+                     <l>But for a mocke to her from th'voyce of heaven;</l>
+                     <l>And that <hi>Adonis</hi> coopt her in his armes</l>
+                     <l>To make her proud of that, ſhe had not, charmes.</l>
+                     <l>Reſt here heyre to perfection. May thy fire</l>
+                     <l>Never take being: But, when't does, expire.</l>
+                  </div>
+                  <div type="poem">
+                     <head>To Coelia.</head>
+                     <l>LEt not my verſe (deare <hi>Coelia</hi>) paſſe thy glance,</l>
+                     <l>For feare it ſhould bee catcht by Ignorance:</l>
+                     <l>T'is not enough to crave the Muſes aide,</l>
+                     <l>Nor to mask under great <hi>Apolloes</hi> ſhade,</l>
+                     <l>Nor, if my <hi>Coelia</hi> ſhine not, can I put</l>
+                     <l>Confidence in <hi>Minerva;</hi> though ſh' unſhut</l>
+                     <l>Her Cabinet of favours, and permit</l>
+                     <l>That I enioy the brighteſt gemmes of it.</l>
+                     <l>'Tis by my <hi>Coelia,</hi> that I only ſing;</l>
+                     <l>'Tis from my <hi>Coelias</hi> ſmiles my fancies ſpring.</l>
+                     <pb facs="tcp:115448:16"/>
+                     <l>Tis in my <hi>Coelia</hi> for to make my muſe</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um, or as ſweete a voyce as any uſe.</l>
+                     <l>T'is in my <hi>Coelia</hi> for to <hi>Sidney</hi> mee</l>
+                     <l>Ti's in her for to make me Gardner bee.</l>
+                     <l>Thy lovely light does all that's good, then let</l>
+                     <l>Mee be ſo happy, as it for to get.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>Zephaniah. 32.</hi>
+                        </bibl>
+                        <p>Shee obeyed not the voyce, ſhee received not correction: ſhe truſted not in the Lord, ſhe drew not neere unto her God.</p>
+                     </q>
+                  </epigraph>
+                  <div type="poem">
+                     <head>The Meditation</head>
+                     <l>SEe where thy love is ſoule: does it of thee</l>
+                     <l>As well, as faire Ieruſalem prophecy?</l>
+                     <l>Is <hi>Chaos</hi> turn'd ſo beauteous? canſt thou come</l>
+                     <l>By <hi>Stygian</hi> worſhip to <hi>Elyſium?</hi>
+                     </l>
+                     <l>If not, then pauſe a while; thinke what it is</l>
+                     <l>To ſtudy how thou may'ſt deſpiſe thy bliſſe.</l>
+                     <l>Will thy <hi>Iehovah</hi> court thee to be bright,</l>
+                     <l>When thou ſo often mak'ſt a lul of night?</l>
+                     <pb facs="tcp:115448:17"/>
+                     <l>The bruite, thou ſeeſt is ſometimes nam'd a dove</l>
+                     <l>Sometimes a lambe<g ref="char:punc">▪</g> but thou doeſt never prove</l>
+                     <l>Ought but a leopard<g ref="char:punc">▪</g> wolfe, Embracing ſtrife</l>
+                     <l>How to deſtroy the ſweetnes of thy life.</l>
+                     <l>Be not ſo vaine a <hi>Palinurus;</hi> wake,</l>
+                     <l>Wake from thy drouſy ſleepe, and doe not make</l>
+                     <l>Fate laugh at thee, let not thy coſtly ſhip,</l>
+                     <l>By ſnorting ſo, and ſelfe to ruin leap.</l>
+                     <l>Give not ſo much ſaile to this bluſtring winde,</l>
+                     <l>But let the ſweete ſouth guide thee who is kind,</l>
+                     <l>Harke how it whiſtles for to have thee come,</l>
+                     <l>Harke how it faine would make it's port thy ho'me.</l>
+                     <l>And give an audience to thy love, the hee</l>
+                     <l>Whom thou deſir'ſt to make thy deitie.</l>
+                     <l>Harke how they all, who are his ſervants cry</l>
+                     <l>Wiſhing them out of his felicity.</l>
+                     <l>Do'ſt thou not heare thy very lodge complaine</l>
+                     <l>Of being for thy ſake ſlave to ſo much paine?</l>
+                     <l>Dungeond from heavens lovd life, and for the ſame,</l>
+                     <l>Which with <hi>Elixar</hi> ſhould ſet forth my name,</l>
+                     <l>Furys I have that in their memorys put</l>
+                     <l>My blacker deeds, which time will never rot.</l>
+                     <l>Hear'ſt thou gods voyce? and is it not obeyd?</l>
+                     <l>And does not hee let thy reward bee payd?</l>
+                     <l>Is not the lord thought worthy of thy truſt</l>
+                     <l>Who tooke thy faith, when thou wert almoſt loſt!</l>
+                     <l>And payd thy debt, whenas the ſergeant came</l>
+                     <l>A life, A life for thy great ſins to claime?</l>
+                     <pb facs="tcp:115448:17"/>
+                     <l>Is he nor worthy of thy heart, nor eye?</l>
+                     <l>Doſt thou ſo recompence his army?</l>
+                     <l>Is majeſtie to have no more eſteeme,</l>
+                     <l>Then this neglect never to looke on him?</l>
+                     <l>Stay giddy tenant: turne, O turne this way,</l>
+                     <l>Behold light once, and then thou'lt wiſh for day.</l>
+                     <l>Heare and obey, draw neere, truſt in thy God,</l>
+                     <l>In whom bliſſe onely does enjoy abode</l>
+                     <l>Take not the ſubtle Grecians promis'd joy,</l>
+                     <l>'Tis but a plot to ruine thy ſweet <hi>Troy:</hi>
+                     </l>
+                     <l>
+                        <hi>Aeneas</hi> yet its feeble walls hath bleſt,</l>
+                     <l>
+                        <hi>Hectors</hi> exceller joyes in it to reſt,</l>
+                     <l>Crave helpe of theſe neere wanting deſtinies</l>
+                     <l>To ſave thee from the future miſeries.</l>
+                     <l>Shake off all <hi>Hellens,</hi> and let <hi>Priams</hi> dye:</l>
+                     <l>Let thy ſword fleſh it on impietie.</l>
+                     <l>Fly out like lightning when thou doſt eſpy</l>
+                     <l>A <hi>Menelaus</hi> offer'd injury.</l>
+                     <l>VVhen wilt thou wake, my ſoule? when wilt thou give</l>
+                     <l>Night baniſhment, and under <hi>Phoebus</hi> live?</l>
+                     <l>O balme thy ſelfe with reaſon, let not ſleepe</l>
+                     <l>Make thee fall headlong into th'<hi>Stygian</hi> deepe:</l>
+                     <l>Obey, beleeve, draw neere unto thy Lord.</l>
+                     <l>VVho with heavens bliſſe thy actions will reward.</l>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:18"/>
+                     <head>The worlds Pilgrimage to himſelfe.</head>
+                     <lg>
+                        <l>ARt thou not weary yet? doeſt thou not ſee</l>
+                        <l>How much inglorious the worlds glories bee</l>
+                        <l>VVhen once thine eye</l>
+                        <l>Entertaines for an object his</l>
+                        <l>VVho owes heavens bliſſe?</l>
+                        <l>For to admire his ſacred deity</l>
+                        <l>Is of more worth, then this to know,</l>
+                        <l>To which thou ſeem'ſt thy only zeale to vow.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Is nature avove him, who gave her birth?</l>
+                        <l>Is the world compos'd of ought elſe but earth?</l>
+                        <l>For ſhame no more,</l>
+                        <l>Hadſt thou but once a holy heart</l>
+                        <l>Thou wouldſt not part</l>
+                        <l>VVith it for all earths Paradiſes ſtore.</l>
+                        <l>Fades not beauty every day?</l>
+                        <l>Vertues reward will ever with thee ſtay.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>This gone, all joy dyes with it that's expreſt</l>
+                        <l>By being its landlord: thy heart makes thee bleſt.</l>
+                        <l>
+                           <hi>Jehovah</hi> pleaſe.</l>
+                        <l>Stay Traveller, make not ſuch haſt,</l>
+                        <l>See where is plac'd</l>
+                        <l>The onely ſtocke of trueſt happineſſe.</l>
+                        <l>'Tis here, 'tis here, enrich thy heart;</l>
+                        <l>Embrace Gods word, and from it never part.</l>
+                     </lg>
+                  </div>
+                  <div type="poem">
+                     <pb facs="tcp:115448:18"/>
+                     <head>The Penitent.</head>
+                     <lg>
+                        <l>HOw ſhall I ſay, I've ſinn'd? will not a ſigh</l>
+                        <l>Or a true teare a fit expreſſer bee</l>
+                        <l>For (ah!) poore mee?</l>
+                        <l>How can I ſpeake when juſtice ſtands ſo nigh?</l>
+                        <l>When conſcience my accuſer is,</l>
+                        <l>And tells me of ſinnes horridneſſe?</l>
+                        <l>What have I ſinn'd? dare I preſume to goe</l>
+                        <l>Tell God I am his friend, and prove his foe?</l>
+                        <l>Soule doe not ſo.</l>
+                        <l>God ſees my heart, and I will write</l>
+                        <l>In it, I onely love his light.</l>
+                        <l>My heart, my ſecrets cabinet I'le ſhow:</l>
+                        <l>My heart? what ſecret deeds have I kept in</l>
+                        <l>It, but my ſinne?</l>
+                        <l>The darkeſt night can ſhew a beame,</l>
+                        <l>VVhat ſhall I doe with one poore gemme?</l>
+                        <l>VVhat light can the Sun give, when in a cloud<g ref="char:punc">▪</g>
+                        </l>
+                        <l>Hee's muffled up? then what's by this allow'd?</l>
+                        <l>Yet doe not feare,</l>
+                        <l>Gemmes are not hurt, becauſe they foule appeare.</l>
+                        <l>The Sun's the brighter at's returne,</l>
+                        <l>Then when he did in's glory burne.</l>
+                        <l>Forſake thy ſinne, and hold ſweet vertue deare.</l>
+                        <l>Take off that muddy vaile, and thou ſhalt ſee</l>
+                        <l>How gratefully he will receiv't of thee.</l>
+                        <l>O God, my Lord!</l>
+                        <pb facs="tcp:115448:19"/>
+                        <l>How happy are they that obey thy VVord!</l>
+                        <l>O let me range no more, but ſee</l>
+                        <l>How to know thee.</l>
+                        <l>I doe confeſſe, repent, and to thee cry</l>
+                        <l>For pardon Lord. O let me never dye,</l>
+                        <l>But live with thee</l>
+                        <l>Eternally.</l>
+                     </lg>
+                     <closer>Amen.</closer>
+                  </div>
+                  <div type="poem">
+                     <head>The <hi>Cambridge</hi> Mouſe.</head>
+                     <l>MY Cat once catcht a Mouſe, a wondrous one,</l>
+                     <l>That readily could ſpeake the Engliſh tongue.</l>
+                     <l>Be mercifull, good miſtris Gibbe, ſaid ſhee,</l>
+                     <l>Henceforth I nevermore will trouble yee.</l>
+                     <l>Her life and freedome ſtraight was granted her;</l>
+                     <l>Yet once more with her braine ſhe would conferre,</l>
+                     <l>Seeing no Friday nights would bleſſe her plot,</l>
+                     <l>She ſecretly unto my ſtudy got.</l>
+                     <l>Viewing a booke which I in poetry</l>
+                     <l>Had made, ſtraight witty ſhe deſir'd to be.</l>
+                     <l>Gibbe all this while did watch her, ſhe began</l>
+                     <l>To ſtile me non-ſences companion.</l>
+                     <l>Then ſhe had found out ſomething that did make</l>
+                     <l>Mee of Dame-follies brood. Thus ſhe did take</l>
+                     <l>A courſe to ſpend an houre. 'Faith at the laſt</l>
+                     <l>My Pus had got her in her clutches faſt.</l>
+                     <pb facs="tcp:115448:19"/>
+                     <l>Then cry'd ſhe, um-what? is my prey become</l>
+                     <l>You my fine goſſip? you would faine goe home</l>
+                     <l>And loſe your fame for theſe your witty jeares</l>
+                     <l>Given to my maſter; who now th' foole appeares?</l>
+                     <l>You ſayd my maſter was a non-ſence growne.</l>
+                     <l>But you, I feare, will call leſſe ſence your owne.</l>
+                     <l>VVas't not enough, that many a ſix-pence meale</l>
+                     <l>I ſuffer'd thee my morſels for to ſteale;</l>
+                     <l>But muſt I heare thee blurre my maſters fame?</l>
+                     <l>Is this the recompence that I'm to claime?</l>
+                     <l>Thus will I thanke thee; and with that ſhe toare</l>
+                     <l>The Mouſe in peeces, which with patience boare</l>
+                     <l>The puniſhment. Take heed who haunts my houſe.</l>
+                     <l>For at the laſt my Cat will catch the Mouſe.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:115448:20"/>
+                  <head>SONNETS.</head>
+                  <div type="sonnet">
+                     <head>A Sonnet againſt women by an unknowne Author.</head>
+                     <lg>
+                        <l>COme away, doe not purſue</l>
+                        <l>A ſhadow that will follow you.</l>
+                        <l>Women lighter then a feather,</l>
+                        <l>Got and loſt, and altogether.</l>
+                        <l>Such a creature may be thought</l>
+                        <l>To have no ſoule, a thing of nought.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Come away, let not thine eyes</l>
+                        <l>Gaze upon their fopperies,</l>
+                        <l>Nor thy better <hi>Genius</hi> dwell</l>
+                        <l>Vpon a Subject known ſo well.</l>
+                        <l>For whoſe folly, at the firſt,</l>
+                        <l>Man and beaſt became accurſt.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Come away, thou canſt not finde</l>
+                        <l>One of all that's faire and kind,</l>
+                        <l>Brighter be ſhee then the day,</l>
+                        <l>Sweeter then a morne in <hi>May;</hi>
+                        </l>
+                        <pb facs="tcp:115448:20"/>
+                        <l>Yet her heart and tongue agrees,</l>
+                        <l>As we and the Antipodes.</l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>Come away, or if thou muſt</l>
+                        <l>Stay a while; yet do not truſt</l>
+                        <l>Nor her ſighes, nor what ſhe ſweares.</l>
+                        <l>Say ſhe weepes, ſuſpect her teares.</l>
+                        <l>Though ſhee ſeems to melt with paſſion,</l>
+                        <l>Tis old deceipt; but in new faſhion.</l>
+                     </lg>
+                     <lg n="5">
+                        <head>5.</head>
+                        <l>Come away, admit there bee</l>
+                        <l>A naturall neceſſitie.</l>
+                        <l>Do not make thy ſelfe a ſlave</l>
+                        <l>For that, which ſhee deſires to have.</l>
+                        <l>What ſhee will, or doe, or ſay</l>
+                        <l>Is meant the cleane contrary way.</l>
+                     </lg>
+                     <lg n="6">
+                        <head>6.</head>
+                        <l>Come away, or if to part</l>
+                        <l>Soone from her, afflicts thy heart;</l>
+                        <l>Follow on thy ſports a while.</l>
+                        <l>Laugh and kiſſe, and play, and ſmile.</l>
+                        <l>Yet, as thou lov'ſt me, truſt her not,</l>
+                        <l>Leſt thou becomeſt a—I know what.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <head>An Anſwer to it.</head>
+                     <lg>
+                        <l>STay, o ſtay, and ſtill purſue</l>
+                        <l>Bad not ſuch happines adue.</l>
+                        <pb facs="tcp:115448:21"/>
+                        <l>Knoweſt thou what a woman is?</l>
+                        <l>An Image of celeſtiall bliſſe.</l>
+                        <l>Such a one is thought to bee</l>
+                        <l>The neareſt true divinitie.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2</head>
+                        <l>Stay o Stay. How can thine eye</l>
+                        <l>Feede on more felicitie?</l>
+                        <l>Or thy better <hi>Genius</hi> dwell</l>
+                        <l>On Subiects that doe this excell?</l>
+                        <l>Had it not beene for her, at firſt,</l>
+                        <l>Man and beast had liv'd accurſt.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Stay, o ſtay, has there not beene</l>
+                        <l>Of beauty and of love a queene?</l>
+                        <l>Does not ſweetnes tearme a ſhe</l>
+                        <l>Worthy tis only ſhrine to bee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </l>
+                        <l>And where will vertue chooſe to ly,</l>
+                        <l>If not in ſuch a treaſury?</l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>Stay, o ſtay, where vertue hath</l>
+                        <l>A lodge, ſure there muſt harbour faith.</l>
+                        <l>Have not womens teares and ſights</l>
+                        <l>Strucke pity into de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ties?</l>
+                        <l>Hard-harted ſhepheard in her paſſion</l>
+                        <l>How can deceit become a faſhion?</l>
+                     </lg>
+                     <lg n="5">
+                        <head>5.</head>
+                        <l>Stay o ſtay; wouldſt thou live free?</l>
+                        <l>Then ſeek a nuptiall destiny:</l>
+                        <pb facs="tcp:115448:21"/>
+                        <l>'Tis not natures bliſſe alone,</l>
+                        <l>(Shee gives) but heav'ns, and that in one.</l>
+                        <l>What ſhee ſhall, or doe, or ſay,</l>
+                        <l>Never from truth ſhall go astray.</l>
+                     </lg>
+                     <lg n="6">
+                        <head>6.</head>
+                        <l>Stay, o ſtay, let not thy heart</l>
+                        <l>Afflicted bee; unleſſe to part</l>
+                        <l>Soone from her. Sport, kiſſe, and play</l>
+                        <l>Whilſt no hours enrich the day.</l>
+                        <l>And if thou doeſt a cuckold prove,</l>
+                        <l>Impute it to thy want of love.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <head>To Coelia a Sonnet.</head>
+                     <lg>
+                        <l>MVſt hee enjoy loves divine happineſſe, whoſe foe hee is?</l>
+                        <l>Who ne're could entertaine within's deſire</l>
+                        <l>A ſingle fire?</l>
+                        <l>On whoſe pale heart a flame receives</l>
+                        <l>That, burning, ſtraight its beeing leaves?</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Loves favorites take heat that will indure</l>
+                        <l>Conſtant and pure<g ref="char:punc">▪</g>
+                        </l>
+                        <l>'Twill make their aſhes, lying in the urne,</l>
+                        <l>To fire returne,</l>
+                        <l>And when they're in <hi>Elyſium,</hi>
+                        </l>
+                        <l>It in their ſoules will have a roome.</l>
+                     </lg>
+                     <pb facs="tcp:115448:22"/>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Thy eyes (faire <hi>Coelia</hi>) ſent to mee a heate, ſhall ne're retreate,</l>
+                        <l>But (whilſt I live) when moſt it doth expire,</l>
+                        <l>It ſhall burne higher.</l>
+                        <l>And ſuch a charge I'll to it give,</l>
+                        <l>That though I dye, it ſtill ſhall live.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <head>A Sonnet.</head>
+                     <lg>
+                        <l>VVOund not ſo deepe; unleſſe you will</l>
+                        <l>Send mee a balme to cure the ill:</l>
+                        <l>Or breath your ſcorne<g ref="char:punc">▪</g> that I may dy</l>
+                        <l>And rid mee of my miſery.</l>
+                        <l>Tis better to endure that,</l>
+                        <l>Then live for nought, but ſhooting at.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>I'll not repeate your being faire;</l>
+                        <l>The envy of <hi>Cynthia</hi> ſhewes you are;</l>
+                        <l>Nor can my heart proclaime you leſſe,</l>
+                        <l>If bleeding wounds, the truth expreſſe;</l>
+                        <l>Yet think I doe not Gods would let</l>
+                        <l>Nature the greater honour get.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>The ſoul's the purer of the two;</l>
+                        <l>Then how pure muſt it bee in you?</l>
+                        <l>To keepe it ſo, ſin not 'twill bee</l>
+                        <l>Held then in th' inferioritie.</l>
+                        <pb facs="tcp:115448:22"/>
+                        <l>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt not a ſin to tyrannize?</l>
+                        <l>Then doe not uſe it, and bee wiſe.</l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>That bluſh will weare, becauſe 'tis given</l>
+                        <l>By earths grand artiſt, not by heaven.</l>
+                        <l>Nor is that gracefull ſtampe of white</l>
+                        <l>Of more endurance. Your delight</l>
+                        <l>Nature ſtiles equall to ours, then</l>
+                        <l>(Since you are lov'd) faith love again.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <head>An Application of a French Sonnet.</head>
+                     <lg>
+                        <l>THe prety birds chirpt in a wood</l>
+                        <l>Whoſe ſavage notes to heare, I ſtood.</l>
+                        <l>O how I did admire the ſpring,</l>
+                        <l>That ſuch felicitie did bring<g ref="char:punc">▪</g>
+                        </l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>My very ſoule is charm'd to ſee</l>
+                        <l>How bleſt they live, who ſhepheards bee.</l>
+                        <l>True love here alwayes harbour hath,</l>
+                        <l>
+                           <hi>Diana's</hi> chaſtneſſe treads this path.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>O that I had a flocke! it nere</l>
+                        <l>Gives an encreaſe to griefe or carae.</l>
+                        <l>Happily doe they live who keepe</l>
+                        <l>Such innocents, as ſilly ſheepe.</l>
+                     </lg>
+                     <pb facs="tcp:115448:23"/>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>All <hi>Flora's</hi> Darlings deck each gowne,</l>
+                        <l>That <hi>Ceres</hi> has in every Downe.</l>
+                        <l>Falſe womens ſmoothed perjurie</l>
+                        <l>Brings never here a miſerie.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <head>To my ſelfe on <hi>Coelia</hi> a Sonnet.</head>
+                     <lg n="1">
+                        <head>1.</head>
+                        <l>BAcke fond lover! court againe!</l>
+                        <l>And doe not ſtaine</l>
+                        <l>Divineneſſe ſo, ſaying it can be</l>
+                        <l>Blacke cruelty.</l>
+                        <l>Though the ſame may cloude his ſight,</l>
+                        <l>Muſt his flower deſpaire of light?</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Once more let her ſee thy heart,</l>
+                        <l>And never part,</l>
+                        <l>Vntill the doome of life or death</l>
+                        <l>Falls from her breath.</l>
+                        <l>Fatally ſhee may begin:</l>
+                        <l>
+                           <hi>Boreas</hi> uſhers <hi>Zephyr</hi> in.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Say ſhee frownes, bid her frowne ſtill,</l>
+                        <l>They never kill.</l>
+                        <l>'Tis policie, that makes her prove</l>
+                        <l>To night a love.</l>
+                        <pb facs="tcp:115448:23"/>
+                        <l>The brightest ſtarres preſage a froſt,</l>
+                        <l>Thinke her Eclips inſpires hope moſt.</l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>The Phoenix ne're did baſely burne,</l>
+                        <l>That from her urne,</l>
+                        <l>Should an ignobler ſpring: then boaſt</l>
+                        <l>Shee loves thee most.</l>
+                        <l>Since that <hi>Urania</hi> gives all bliſſe,</l>
+                        <l>Thou ſhalt from <hi>Coelia</hi> have no leſſe.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <head>A Sonnet on <hi>Coelia.</hi>
+                     </head>
+                     <lg>
+                        <l>SToope <hi>Phoebus!</hi> here's one her right claimes,</l>
+                        <l>Which is the place, wherein thy beames</l>
+                        <l>Stemme themſelves. Shee gives mans ſight</l>
+                        <l>Object with a diviner light.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>The Marygold, that hath made thee</l>
+                        <l>Heretofore her deity,</l>
+                        <l>When ſhee viewes th'luſtre of my love,</l>
+                        <l>Will onely to her votreſſe prove.</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>To <hi>Venus</hi> beauty all its pure</l>
+                        <l>Eſſence did ſacrifice; but ſure</l>
+                        <l>Some want onneſſe hath made heaven chaſe</l>
+                        <l>Her out, and ſet <hi>Coelia</hi> in her place.</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <pb facs="tcp:115448:24"/>
+                     <head>Another.</head>
+                     <l>A Starre deſcended from above</l>
+                     <l>Vpon a ſudden towards my love,</l>
+                     <l>And (at her ſight amaz'd) it was</l>
+                     <l>In feare it had forgot its place.</l>
+                     <l>For which, lest ſhee ſhould angry be,</l>
+                     <l>It left its flame and ſtraight did dye.</l>
+                  </div>
+                  <div type="sonnet">
+                     <head>A Sonnet.</head>
+                     <lg>
+                        <l>O Give me leave to gaze a while</l>
+                        <l>Vpon that life-redeeming ſmile,</l>
+                        <l>Which in my love appeares!</l>
+                        <l>Baſe griefe, I now defie thy charmes,</l>
+                        <l>Tending to nought but lovers harmes</l>
+                        <l>By cauſing jealous feares.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Did not great <hi>Cupids,</hi> ſeeing his dart</l>
+                        <l>Keepe ſuch poſſeſſion in my heart,</l>
+                        <l>(Thinking to pitty mee)</l>
+                        <l>Cauſe by his powre this? hope to give</l>
+                        <l>That I ſhall ne're hereafter live</l>
+                        <l>In leſſe felicitie?</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Bring that to paſſe, and then I will</l>
+                        <l>With daily ſacrifices fill</l>
+                        <l>Thy lappe. O how they erre.</l>
+                        <l>Who tell the world pitty doth flye</l>
+                        <l>Thee as an utter enemy,</l>
+                        <l>And crueltie's thy ſphere!</l>
+                     </lg>
+                  </div>
+                  <div type="sonnet">
+                     <pb facs="tcp:115448:24"/>
+                     <head>To my ſelfe on her Sonnet.</head>
+                     <lg n="1">
+                        <head>1.</head>
+                        <l>VIew both the Lilly and the Roſe;</l>
+                        <l>View both the bluſhing Pinke, and thoſe</l>
+                        <l>Which <hi>Flora</hi> holds most deare, yet ſee</l>
+                        <l>Thy <hi>Coelia</hi> in her cheekes more bee.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>View all the beauty, that the love</l>
+                        <l>Of <hi>Phoebus</hi> calls hers, and 'twill prove</l>
+                        <l>But meane, where <hi>Coelia</hi> does appeare,</l>
+                        <l>Who will not ſay ſhee heaven does beare?</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>View <hi>Venus,</hi> whoſe pure red and white</l>
+                        <l>The Gods doe make their ſole delight<g ref="char:punc">▪</g>
+                        </l>
+                        <l>View all that's in th'<hi>Elyſium</hi> fields<g ref="char:punc">▪</g>
+                        </l>
+                        <l>All this and more thy <hi>Coelia yeilds.</hi>
+                        </l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>And will not this beget a flame</l>
+                        <l>Within thy breſt? will not this tame</l>
+                        <l>Thy cruell thoughts of women? fie</l>
+                        <l>Sh' has wounded thee, wil't ſcorne, and dye?</l>
+                     </lg>
+                     <lg n="5">
+                        <head>5.</head>
+                        <l>No I no more will entertaine</l>
+                        <l>Such foes to bliſſes whoſe every ſtaine</l>
+                        <l>Makes my ſoule periſh: I'll goe and ſay</l>
+                        <l>I am thy Captive <hi>Coelia.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <pb facs="tcp:115448:25"/>
+                  <div type="sonnet">
+                     <head>A Sonnet in the praiſe of Muſicke.</head>
+                     <lg>
+                        <l>BLeſſe<note n="*" place="margin">See the 9. Poem.</note> 
+                           <hi>Buvetia,</hi> bleſſe the ayre,</l>
+                        <l>Breath but once, and 'tis enough</l>
+                        <l>For to recreate us here,</l>
+                        <l>Making us diviner prove.</l>
+                     </lg>
+                     <lg n="2">
+                        <head>2.</head>
+                        <l>Breath my death; For (in thy doome</l>
+                        <l>Though ſo ſterne a fate may lye)</l>
+                        <l>Who would not goe ſeeke a tombe</l>
+                        <l>If thy voyce pronounces dye?</l>
+                     </lg>
+                     <lg n="3">
+                        <head>3.</head>
+                        <l>Yet divineneſſe gives the beſt,</l>
+                        <l>And thou art no other ſure:</l>
+                        <l>O then ſend me happy rest,</l>
+                        <l>Ending what I now endure.</l>
+                     </lg>
+                     <lg n="4">
+                        <head>4.</head>
+                        <l>Knewst thou what it is to bee</l>
+                        <l>Harb' rour of ſo deepe a wound</l>
+                        <l>As I have receiv'd from thee,</l>
+                        <l>Then how ſweetly love would ſound?</l>
+                     </lg>
+                     <lg n="5">
+                        <head>5.</head>
+                        <l>Deare, let mee that ſweetneſſe have,</l>
+                        <l>Name but love, and it will breed</l>
+                        <l>Such a charme, 'twill make thee leave</l>
+                        <l>Naming love, and love indeed.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="epigrams">
+                  <pb facs="tcp:115448:25"/>
+                  <head>EPIGRAMMES.</head>
+                  <lg>
+                     <head>To Dr. <hi>Gill.</hi>
+                     </head>
+                     <l>Thou ſeeſt my booke, but thou wilt finde the wit</l>
+                     <l>To bee as hard, as good men are, to get.</l>
+                  </lg>
+                  <lg>
+                     <head>To Caelia.</head>
+                     <l>Thou ſayſt thou lik'ſt my verſe, and I like thee;</l>
+                     <l>Give me but that, thou ſhalt have poetry.</l>
+                  </lg>
+                  <lg>
+                     <head>On Momus</head>
+                     <l>
+                        <hi>Momus</hi> can call another foole, but hee</l>
+                     <l>Could never make his braine and wit agree.</l>
+                  </lg>
+                  <pb facs="tcp:115448:26"/>
+                  <lg>
+                     <head>On Zoilus.</head>
+                     <l>
+                        <hi>Zoilus</hi> would faine carpe, but that hee feears,</l>
+                     <l>'Twill jeer himſelfe, becauſe hee's carpt by trh'eares</l>
+                  </lg>
+                  <lg>
+                     <head>Woman.</head>
+                     <l>If whence this name had birth, you faine would know</l>
+                     <l>God made the man, but 'twas it, made the woe.</l>
+                  </lg>
+                  <lg>
+                     <head>Beauty.</head>
+                     <l>Beauty decayes, they ſay, when age does comes;</l>
+                     <l>But I ſay no, while paint may have a roome.</l>
+                  </lg>
+                  <lg>
+                     <head>Omnia fert aetas.</head>
+                     <l>
+                        <hi>Omnia fert aetas?</hi> no, it cannot bring</l>
+                     <l>
+                        <hi>Mun Salter,</hi> but hee will with th' cuckooe ſing</l>
+                  </lg>
+                  <pb facs="tcp:115448:26"/>
+                  <lg>
+                     <head>To Eraſmus.</head>
+                     <l>That thou'rt a man, each of thy learn'd works ſhows.</l>
+                     <l>But yet thy name tells us thou waſt a mouſe.</l>
+                  </lg>
+                  <lg>
+                     <head>To Cornutus.</head>
+                     <l>Such a one is thy wife, thou'rt very kinde</l>
+                     <l>To have her for thy ſelfe, thy foe, or friend.</l>
+                  </lg>
+                  <lg>
+                     <head>To one who ſayd ſhee lov'd a ſouldier best of all men.</head>
+                     <l>I like thy choyce; for 'tis not to be feard</l>
+                     <l>But when thou haſt him, he'll ſtand to his guard.</l>
+                  </lg>
+                  <lg>
+                     <head>To Catiline.</head>
+                     <l>Valiant thou wert, witneſſe thy death they give;</l>
+                     <l>But I had rather without valour live.</l>
+                  </lg>
+                  <pb facs="tcp:115448:27"/>
+                  <lg>
+                     <head>To a beauteous maide being none of the wiſeſt, that diſdained a Scholar becauſe hee was not handſome.</head>
+                     <l>You both want ſomething; thou want'ſt wit, and hee</l>
+                     <l>Is none of th' faireſt; beauty and wit agree.</l>
+                  </lg>
+                  <lg>
+                     <head>To Beſſe Broughton.</head>
+                     <l>
+                        <hi>Ben Ionſon</hi> wiſht thy pox at Vulcans court:</l>
+                     <l>No doubt but 'tis, or ſomething better for't.</l>
+                  </lg>
+                  <lg>
+                     <head>To a rich man dead.</head>
+                     <l>Living none lov'd thee worſe; now thou art in</l>
+                     <l>Thy grave, none love thee better then thy kin.</l>
+                  </lg>
+                  <lg>
+                     <head>Of Poets.</head>
+                     <l>Fame gives a poet's very pretty. Then</l>
+                     <l>Why never lov'd? for poets are all men.</l>
+                  </lg>
+                  <pb facs="tcp:115448:27"/>
+                  <lg>
+                     <head>A Caveat.</head>
+                     <l>'Tis true, I never u'sd to ly, but yet</l>
+                     <l>They call mee poet, then there's feare of it,</l>
+                  </lg>
+                  <lg>
+                     <head>The Proverbe.</head>
+                     <l>Never late to repent, the people ſay;</l>
+                     <l>Yet <hi>Wat</hi> is hang'd; though he repents, to day,</l>
+                  </lg>
+                  <lg>
+                     <head>Coelius.<note n="*" place="margin">Vide Mart.</note>
+                     </head>
+                     <l>
+                        <hi>Coelius</hi> ſay's that there's no high power; but I</l>
+                     <l>By <hi>Beſſes</hi> voyce will prove he tells a ly.</l>
+                  </lg>
+                  <lg>
+                     <head>Quinta.</head>
+                     <l>
+                        <hi>Quinta</hi> was whipt for having of a cracke;</l>
+                     <l>And yet the Iudges daughter broke her back.</l>
+                  </lg>
+                  <pb facs="tcp:115448:28"/>
+                  <lg>
+                     <head>The Mounſier.</head>
+                     <l>The Mounſier ſwears that he muſt yet be higher.</l>
+                     <l>Take heed, above's the element of fire.</l>
+                  </lg>
+                  <lg>
+                     <head>Of Ben Iohnſons death.</head>
+                     <l>Here lyes the Fox, then what neede wee</l>
+                     <l>Fear't, in a glaſſe of ſacke? be free;</l>
+                     <l>Drink't off. By Ieſus <hi>Ben</hi> does ſweare</l>
+                     <l>
+                        <hi>Vulpona</hi> ne're ſhall hurt us here.</l>
+                  </lg>
+                  <lg>
+                     <head>On Shanks.</head>
+                     <l>
+                        <hi>Shanks</hi> ſweares, he faſts; and alwaies cries for beefe.</l>
+                     <l>O how he faſts! that's how faſt eates the thiefe!</l>
+                  </lg>
+                  <lg>
+                     <head>A phraſe in Poetry.</head>
+                     <l>Fairer then that word faire, why ſo ſhe muſt,</l>
+                     <l>Or be as blacke as <hi>Timothies</hi> toaſted cruſt.</l>
+                  </lg>
+                  <pb facs="tcp:115448:28"/>
+                  <lg>
+                     <head>Of Ponticus.</head>
+                     <l>
+                        <hi>Ponticus</hi> queſtions me who is a Whore:</l>
+                     <l>I bid him looke about, and hee'll ſay more.</l>
+                  </lg>
+                  <lg>
+                     <head>My antagoniſt in love.</head>
+                     <l>ONe that was my <hi>Antagoneſt</hi> in love</l>
+                     <l>Vnto my Mrs. did the favorit prove.</l>
+                     <l>His cloathes, his Haire, although it was his fate</l>
+                     <l>To bribe the hangman for that robe on's pate,</l>
+                     <l>Was ſtill commended, which did make mee goe</l>
+                     <l>Suite my ſelfe like him, bribe the hangman too:</l>
+                     <l>All would not doe, ſtill he was in her eye,</l>
+                     <l>Still like him did I ever ſtrive to bee.</l>
+                     <l>At laſt he got the pox. Nay then cry'd I,</l>
+                     <l>Farewell, even take her. And ſend thee much joy.</l>
+                  </lg>
+                  <lg>
+                     <head>To Captaine Timerous learning to daunce.</head>
+                     <l>Captain, thou needſt no teaching to be ſwift</l>
+                     <l>In th' foote, for as I heare, 'tis natures gift.</l>
+                  </lg>
+                  <pb facs="tcp:115448:29"/>
+                  <lg>
+                     <head>A Cobler.</head>
+                     <l>A fellow askt a Cobler if hee had</l>
+                     <l>The art of making ſoules good that were bad?</l>
+                     <l>No, anſwered hee, but if your ſoulebee dry</l>
+                     <l>In Hell, I'll liquer't if you'll bring't to mee.</l>
+                  </lg>
+                  <lg>
+                     <head>To Monſ: <hi>Lafoole</hi> learning to ſing.</head>
+                     <l>The note of prickeſong is Laſoull, but thou</l>
+                     <l>Wilt make it with thy wit Lafoole I know.</l>
+                  </lg>
+                  <lg>
+                     <head>On Cottus.</head>
+                     <l>
+                        <hi>Cottus</hi> e're lying in his bed forſweares.</l>
+                     <l>And why? it has been ſould this ſixteene yeares.</l>
+                  </lg>
+                  <lg>
+                     <head>On Battus.</head>
+                     <l>
+                        <hi>Battus</hi> ſweares that hee'll neere be drunk, and ſtill</l>
+                     <l>The pot ſhall never bee from's head by's will.</l>
+                  </lg>
+                  <pb facs="tcp:115448:29"/>
+                  <lg>
+                     <head>To Monſ: Vertiger.</head>
+                     <l>Hee that does carpe at others, 'tis becauſe</l>
+                     <l>Hee (has no wit) then come thou, into this clauſe.</l>
+                  </lg>
+                  <lg>
+                     <head>To <hi>I.</hi> Day the ſcrivener.</head>
+                     <l>My verſe is like an old houſe, 't cannot ſtand</l>
+                     <l>With credit till it bee helpt by thy hand.</l>
+                     <l>Thou mak'ſt it weare out times large running, I</l>
+                     <l>Am bound to thee, and not my poetry.</l>
+                  </lg>
+                  <lg>
+                     <head>To <hi>Dr.</hi> Gill.</head>
+                     <l>To thee great <hi>Gill,</hi> my fearfull muſe does fly</l>
+                     <l>To get a guard for her fam'd Poetry:</l>
+                     <l>When thou but once commendeſt, not a looke</l>
+                     <l>Of envious <hi>William</hi> will behold my booke.</l>
+                  </lg>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:115448:30"/>
+                  <head>To the Examples of all beauty, my honoured Couſins, Miſtris
+<list>
+                        <item>
+                           <hi>Margaret</hi>
+                        </item>
+                        <item>
+                           <hi>Mary</hi>
+                        </item>
+                        <item>
+                           <hi>Katherine</hi>
+                        </item>
+                     </list>
+                     <hi>S<hi rend="sup">t</hi>. George.</hi>
+                  </head>
+                  <head type="sub">Continuance of what they have wiſheth, <hi>T. P.</hi>
+                  </head>
+                  <opener>
+                     <salute>Honoured Couſins,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Mariner ſo layes his Stody, that when his Ship hath got into <hi>Neptunes</hi> gentle embraces, it may not goe out againe: Before, I ſent a worke which you liked, and with a gentle looke was pleas'd to peruſe it, with a faire acceptance gave it welcome. Should I truſt to another fate it might bee dangerous. There<g ref="char:EOLhyphen"/>fore ſince my former have ſped ſo well, I have preſum'd to honour with your Names this Dedication. If you but ſend faire weather this time, J ſhall ever bee</p>
+                  <closer>
+                     <signed>
+                        <hi>Your devoted Shipman,</hi> Tho. Prujean.</signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:115448:30"/>
+                  <p>LOVES LOOKING-GLASSE DIVINE AND HUMANE. The Divine one in Chriſts Birth and Paſsion faithful<g ref="char:EOLhyphen"/>ly ſhowne: The Humane one in foure Epiſtles of
+<list>
+                        <item>
+                           <hi>Iuliets,</hi>
+                        </item>
+                        <item>
+                           <hi>Romeos,</hi>
+                        </item>
+                        <item>
+                           <hi>Liſanders,</hi>
+                        </item>
+                        <item>
+                           <hi>Caliſtas.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>By</hi> Tho. Prujean, <hi>Student of</hi> Caius <hi>and</hi> Gonvile <hi>Colledge in</hi> Cambridge.</p>
+                  <p>LONDON, Printed for <hi>Hugh Perry,</hi> neere Ivy Bridge in the Strand, 1644.</p>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:115448:31"/>
+                  <pb facs="tcp:115448:31"/>
+                  <head>LOVES LOOKING-GLASSE.</head>
+                  <div type="part">
+                     <head>CHRISTS BIRTH.</head>
+                     <l>A King of Kings, framer and governour</l>
+                     <l>Of all in all, the all titles meriter;</l>
+                     <l>Who reines the ſtormy fiend, who calmes the blaſts</l>
+                     <l>Of <hi>Aeols</hi> ſons, who roughs and ſmooths like glaſſe</l>
+                     <l>The Iuſtie <hi>Ocean,</hi> when wantoning</l>
+                     <l>With <hi>Boreas,</hi> ſhee oft makes fate to ſing</l>
+                     <l>A victory over Nature: Hee who can</l>
+                     <l>Create, and <hi>chaos</hi> heaven, earth, ſea and man,</l>
+                     <l>All with a breath. A Triple unity</l>
+                     <l>Beeing one, yet three; three, yet a ſingle hee:</l>
+                     <pb facs="tcp:115448:32"/>
+                     <l>Who gives a birth to winter, hee whoſe power</l>
+                     <l>Cauſes the virgins bluſh, and every flower</l>
+                     <l>To breath ſo ſweetely. By whom <hi>Cynthia's</hi> light</l>
+                     <l>Caſts ſuch a glorious obiect to our ſight:</l>
+                     <l>Who gives to <hi>Ceres</hi> all her beauteous glory,</l>
+                     <l>The Muſes deity, and of all the ſtory.</l>
+                     <l>Had <hi>Virgil</hi> ſung, for his <hi>Aeneas</hi> fame,</l>
+                     <l>This Mighties praiſe, truth had ſhin'd in his name;</l>
+                     <l>For all the titles, he could e're have faign'd,</l>
+                     <l>Would not have beene with falſety once ſtain'd.</l>
+                     <l>Who gave both name, beeing, and place to nature,</l>
+                     <l>Hee tooke a ſhrine; and once became a creature,</l>
+                     <l>Trod earths poore paths, who could in heaven ſit,</l>
+                     <l>Or in a glory for his worth more ſit.</l>
+                     <l>Now muſt wee thinke what pomping ſhould have beene,</l>
+                     <l>When ſuch a one to grace earth does begin.</l>
+                     <l>A Kings ſaluting of the world gives all</l>
+                     <l>Glories attendance exerciſe. Here call</l>
+                     <l>The towers loud voyces men to joy, and here</l>
+                     <l>We ſee a houſe burnt for a bonefire.</l>
+                     <l>Now doe the terren <hi>Phoebuſes</hi> begin</l>
+                     <l>To ſtrive who firſt ſhould verſe his welcome in.</l>
+                     <l>What does exceed endeavour? Here they dreſſe</l>
+                     <l>A chamber with arts chiefeſt comlineſſe</l>
+                     <l>To entertaine the mother, with a bed</l>
+                     <l>Worth more, then all the ſtocke that <hi>Croeſus</hi> had.</l>
+                     <l>Beſides all this, we here enioy the noyſe</l>
+                     <l>Of <hi>Wills</hi> and <hi>Richards</hi> balling out Rejoyce,</l>
+                     <pb facs="tcp:115448:32"/>
+                     <l>And only that, if nothing elſe, one ring</l>
+                     <l>Like to a Star) the babe to it's fate does bring.</l>
+                     <l>Of ſuch a one deſerves in th' memory</l>
+                     <l>Of all to bee imprinted with ſuch ioy,</l>
+                     <l>Thinke how much more does his commander, maker,</l>
+                     <l>Merit in hearts: what ioy ſhould each partaker</l>
+                     <l>Of ſuch a knowledge have, as doth containe</l>
+                     <l>His leaving of the wombe, who brought to paine</l>
+                     <l>A period, and ſo much felicitie,</l>
+                     <l>As, not enioying of it, who's the hee</l>
+                     <l>That can deſcribe it? they, who have this bliſſe</l>
+                     <l>Can ſay no more, then as it ſhalbe, it is?</l>
+                     <l>Now for a roome, now for a downy bed</l>
+                     <l>Neately arted, where the mother muſt be layd;</l>
+                     <l>Now for the pledges of each ioyfull heart.</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, but where is it? where is this deſert</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ayd? not in <hi>Bethelem:</hi> the coſtly roome</l>
+                     <l>Is a baſe ugly ſtable now become,</l>
+                     <l>The glorious, bed turn'd to an oxes ſtall,</l>
+                     <l>The ioy to plots how to bring him to thrall.</l>
+                     <l>This is the entertainment, that they gave</l>
+                     <l>To him, who brought a Corroſine to ſave</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s from hell's poyſon. Nor was't any ſuch</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ime dated glory, that hee valewd much.</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et him but have, for this moſt ſumptuous roome.</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, heart deckt rich with vertue. It will come</l>
+                     <l>More welcome to him. And for all the reſt</l>
+                     <l>One that will ſay in thee I'm onely bleſt.</l>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:115448:33"/>
+                     <head>LOVES LOOKINGGLASSE.</head>
+                     <head>CHRISTS PASSION.</head>
+                     <l>MAns only friend by man is doomd to bee</l>
+                     <l>An underling to worthleſſe deſtiny.</l>
+                     <l>Hee, who even now an endleſſe life could give,</l>
+                     <l>Muſt now be faine to ſay, he muſt not live:</l>
+                     <l>Muſt not? alas! hee will not, and all is</l>
+                     <l>To gaine his enemy immortall bliſſe.</l>
+                     <l>Shew mee a Gordian Prieſt ſo holy bent,</l>
+                     <l>As to ſubmit to ſuch a puniſhment.</l>
+                     <l>Shew mee a man too, that would chooſe to dye</l>
+                     <l>Rather then's brother ſhould thus puniſh't bee.</l>
+                     <pb facs="tcp:115448:33"/>
+                     <l>Shew me a child, would conſecrate his breath</l>
+                     <l>(Rather then's father ſhould be hurt) to death.</l>
+                     <l>Shew mee a father that would take this doome,</l>
+                     <l>Rather then's progeny ſhould have a toombe.</l>
+                     <l>Shew mee a Subject that is term'd a hee,</l>
+                     <l>Devoted ſo much unto piety,</l>
+                     <l>That, rather then his king ſhould ſuffer this,</l>
+                     <l>He would forgoe all lifes ſweet happineſſe.</l>
+                     <l>Shew me a mother that would doe ſo much</l>
+                     <l>For her owne babe, and all without a grutch.</l>
+                     <l>And is't not worth a wonder, here, that one</l>
+                     <l>Should ſuffer for's foe ſuch affliction?</l>
+                     <l>It does command thy admiration, man;</l>
+                     <l>For it was caus'd by thy greate <hi>Ocean</hi>—</l>
+                     <l>Excelling ſins; thy king, thy God muſt doe</l>
+                     <l>All this to make thee to forſake thy woe;</l>
+                     <l>To leave thy hunger, and to take thy foode;</l>
+                     <l>To make thee only to accept thy good.</l>
+                     <l>And is this all too little? wilt thou ſtill</l>
+                     <l>Take hunger and leave foode, fly good, love ill?</l>
+                     <l>The <hi>Pelican</hi> can doe no more, but leave</l>
+                     <l>Her life, the pretty young ones for to ſave;</l>
+                     <l>And if they will run from her, how can ſhe</l>
+                     <l>Become their helper in that miſery?</l>
+                     <l>The hen but guards, and if the chicke will ſtray</l>
+                     <l>From under her, it muſt be the kites prey.</l>
+                     <pb facs="tcp:115448:34"/>
+                     <l>Yet ſtay fond man; thou haſt a better guide,</l>
+                     <l>One, that will call thee, when thou goeſt aſide.</l>
+                     <l>One, that will rather thy entreater bee,</l>
+                     <l>Then have thee baniſht heavens felicitie.</l>
+                     <l>Hee dyes for us, we ſin; yet his deſire</l>
+                     <l>Purſues us that wee to his grace aſpire.</l>
+                  </div>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:115448:34"/>
+                  <argument>
+                     <head>The Argument of <hi>Ro<g ref="char:EOLhyphen"/>meos</hi> and <hi>Juliets.</hi>
+                     </head>
+                     <p>ROmeo and <hi>Iuliet,</hi> iſſues of two eni<g ref="char:EOLhyphen"/>mies, <hi>Mountegue</hi> and <hi>Capulet</hi> Citi<g ref="char:EOLhyphen"/>zens of <hi>Verona,</hi> fell in love one with the other: hee going to give her a viſit meetes <hi>Tybalt</hi> her kinſman, who urging a fight was ſlaine by him: for this <hi>Romeo</hi> was baniſhed and reſided at <hi>Mantua,</hi> where be received an Epiſtle from <hi>Iuliet.</hi>
+                     </p>
+                  </argument>
+                  <pb facs="tcp:115448:35"/>
+                  <head>LOVES LOOKING-GLASSE.</head>
+                  <div type="part">
+                     <head>Iuliet <hi>to</hi> Romeo.</head>
+                     <l>FOr health and happineſſe doth <hi>Iuliet</hi> pray</l>
+                     <l>To come to <hi>Romeo,</hi> and his <hi>Mantua.</hi>
+                     </l>
+                     <l>His <hi>Mantua!</hi> O in that title bleſt</l>
+                     <l>Would my poore fame could have ſuch happy reſt.</l>
+                     <l>Once it was ſo, once could this poore breaſt boaſt,</l>
+                     <l>(Rich only then) of being <hi>Romeo's</hi> hoaſt.</l>
+                     <l>No ſooner doe ſleepes charmes upon me ceaſe,</l>
+                     <l>But fancie ſtraight diſturbes me of my eaſe.</l>
+                     <l>Her troopes ſhe brings, in which me thinkes, I ſee</l>
+                     <l>Moſt of the horrour call its ſubject thee.</l>
+                     <pb facs="tcp:115448:35"/>
+                     <l>Firſt, here comes <hi>Tybalt,</hi> tho'onely cauſe of all,</l>
+                     <l>That ſtiles our miſerie originall.</l>
+                     <l>Fir'd at thy ſight, in's fury, now his breath</l>
+                     <l>Has no iſſue ſaving what treats of thy death.</l>
+                     <l>Then ſay I, what? dares man preſume to give</l>
+                     <l>Death that, which heaven hath only choſe to live?</l>
+                     <l>In thee, ſweet <hi>Romeo,</hi> ſuch perfection lyes</l>
+                     <l>As would make up another Paradiſe!</l>
+                     <l>What has <hi>Elyſium</hi> that is not in thee?</l>
+                     <l>A bliſſe that will weare out eternitie:</l>
+                     <l>Where is that bliſſe, if not in <hi>Romeo</hi>'s love?</l>
+                     <l>Can <hi>Iuliet</hi> ought elſe happier then that prove?</l>
+                     <l>When thou doſt ſpeake, a quire of Angels make</l>
+                     <l>From all their notes thy voyce a being take.</l>
+                     <l>Thy eye caſts beames, that looke as if they were</l>
+                     <l>Contain'd in one above a naturall ſphare.</l>
+                     <l>Thy breath is alwayes ſo delicious,</l>
+                     <l>As if thou hadſt command o're <hi>Zephyrus.</hi>
+                     </l>
+                     <l>And 'fore my dreame was ended, powers had ſent</l>
+                     <l>Thee valour to inflict a puniſhment</l>
+                     <l>Upon him for his boldneſſe, which was done;</l>
+                     <l>And then, me thought, I did begin to moane.</l>
+                     <l>But then I 'gan to cry, why ſhould theſe eyes</l>
+                     <l>Pay to a griefe, unlawfull, ſacrifice?</l>
+                     <l>Why ſhould I weepe? becauſe my enemy</l>
+                     <l>Became Fates ſlave, and <hi>Romeo</hi> from it free.</l>
+                     <l>Is he a friend that would deny to give,</l>
+                     <l>But rather take away by what I live?</l>
+                     <pb facs="tcp:115448:36"/>
+                     <l>My life, my deareſt joy, my <hi>Romeo?</hi>
+                     </l>
+                     <l>Yet are my roſes overcome by woe.</l>
+                     <l>From thee they had their name, and ſure thy love</l>
+                     <l>Their planter, nouriſher, bloſſomer did prove.</l>
+                     <l>From thy ſweet lips (when thou didſt firſt ſalute</l>
+                     <l>Me at the Maske) my cheekes did ſteale this ſute</l>
+                     <l>Of crimſon, and ſince thou didſt kiſſe more free,</l>
+                     <l>They got what made up their maturitie.</l>
+                     <l>As that celeſtiall<note n="*" place="bottom">His breath.</note> gale its wonted courſe</l>
+                     <l>Enjoy'd, it was their bloſſomers ſweet nurſe.</l>
+                     <l>When I reſolv'd the author of all this,</l>
+                     <l>I ſtraight bethought how many treſpaſſes</l>
+                     <l>I had committed, waſting ſo away</l>
+                     <l>In griefe of his dire foe, ſo rich a May.</l>
+                     <l>And yet, me thought I a parcaker had</l>
+                     <l>In this my ſorrow: pardon if I ſaid</l>
+                     <l>It was thy ſelfe. Then quickly thus cry'd I,</l>
+                     <l>
+                        <hi>Romeo</hi> is one of my ſocietie.</l>
+                     <l>Fame growing big with envy, 'cauſe on mee</l>
+                     <l>Are fixt the rayes of ſuch a deitie.</l>
+                     <l>My <hi>Romeo</hi> loves me and her ſnaky twines</l>
+                     <l>Take from that noble wrath their wrinkled lines.</l>
+                     <l>Shee burſts, and in each eare the poyſon fly'es,</l>
+                     <l>Carrying of <hi>Tibalt's</hi> death, the Prince eſpies</l>
+                     <l>Some murmur for him: he ſoone queſtions why</l>
+                     <l>The murmur is, who has this ſad reply.</l>
+                     <l>Search ſoone was made for thee whom in my armes</l>
+                     <l>I catcht into my bed. Theſe ſudden harmes</l>
+                     <pb facs="tcp:115448:36"/>
+                     <l>Strugling to keepe from thee, and fearing leſt</l>
+                     <l>Thou ſhouldſt be tooke, all ſleepe was from me caſt.</l>
+                     <l>Then did I cloſe'em, and cry'd prethee ſtay.</l>
+                     <l>But thou wert gone, alas! to <hi>Mantua.</hi>
+                     </l>
+                     <l>Could no high pow're inſpire their wills into</l>
+                     <l>Our great annoynted; That my <hi>Romeo</hi>
+                     </l>
+                     <l>His <hi>Iuliets</hi> bed might ſtill have bleſt: could none</l>
+                     <l>Of thy divine parts plead? muſt thou be gone?</l>
+                     <l>Is <hi>Mantua</hi> the onely place that muſt</l>
+                     <l>Have of my <hi>Romeo</hi> the happy truſt?</l>
+                     <l>Mee thinkes I heare the pretty birds begin</l>
+                     <l>To conſecrate notes to thy welcome in.</l>
+                     <l>The flowres begin to court thee, that they may</l>
+                     <l>Have both a god and goddeſſe to obey.</l>
+                     <l>But<note n="*" place="bottom">A lovers jealouſie eu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ningly expreſt.</note> gentle ſweet tell them thy <hi>Juliet</hi> has</l>
+                     <l>Worth that does all their goddeſſes ſurpaſſe.</l>
+                     <l>Parts to be gain'd, that doe deſerve a throne</l>
+                     <l>Of happineſſe, ſuch as the gods ſit on.</l>
+                     <l>I will maintaine it, ſince I merited</l>
+                     <l>To bee one worth thy love remembred.</l>
+                     <l>Curſt be that <hi>Tybalt,</hi> that young <hi>Phaeton,</hi>
+                     </l>
+                     <l>Whom valour had beſtow'd her reines, upon;</l>
+                     <l>That he muſt needs ſtrive thy world for to burne,</l>
+                     <l>And find by thee preferment for the urne.</l>
+                     <l>That <hi>Mantua</hi> and not theſe armes muſt have</l>
+                     <l>The happineſſe thy body to receive.</l>
+                     <l>How long of <hi>Romeo</hi> muſt I dreame, and when</l>
+                     <l>I thinke I have thee, catch the ayre againe?</l>
+                     <pb facs="tcp:115448:37"/>
+                     <l>Once thou vow'dſt by thy ſelfe, which I did take</l>
+                     <l>To be a greater then thou e're couldſt make</l>
+                     <l>By heaven its ſelfe, to that thy vow did tend,</l>
+                     <l>As in it thou thy love didſt then commend,</l>
+                     <l>Yet keepe it as thou wilt, all <hi>Iuliets</hi> cry</l>
+                     <l>Will be with <hi>Romeo</hi> to live and dye.</l>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:115448:37"/>
+                     <head>LOVES LOOKING-GLASSE.</head>
+                     <head>Romeo <hi>to</hi> Iuliet.</head>
+                     <l>THe greet thou ſent'ſt no more belongs to mee.</l>
+                     <l>Then when I am ſweetly embrac't by thee,</l>
+                     <l>Onely to that place is aſcrib'd all bliſſe,</l>
+                     <l>Where <hi>Romeo</hi> with his faire <hi>Iuliet</hi> is.</l>
+                     <l>
+                        <hi>Mantua</hi>'s nothing but a cage of woe</l>
+                     <l>Where thou art not, all countryes will prove ſo.</l>
+                     <l>Where is it that the world forgets not day,</l>
+                     <l>When once it viewes my <hi>Iuliet</hi> is away?</l>
+                     <l>The brighter <hi>Cynthia</hi> does enlarge her dreſſe,</l>
+                     <l>That ſhe might offer thee a ſacrifice</l>
+                     <pb facs="tcp:115448:38"/>
+                     <l>Worthy thy faire acceptance. The infant lights</l>
+                     <l>Forſake our clouds for to bedeck thy nights.</l>
+                     <l>Thy memorie ſhould before this complaine,</l>
+                     <l>That it does one of ſuch poore worth containe.</l>
+                     <l>Juſtice ſhould blame thy fancies, 'cauſe they bee</l>
+                     <l>Drawne on no other object ſaving mee.</l>
+                     <l>My riches are all dig'd from Sorrowes mine,</l>
+                     <l>Onely ſome favours, that I keepe of thine.</l>
+                     <l>There thou haſt ſtockt me well, then why doe I</l>
+                     <l>Make my ſelfe of ſo little valew bee?</l>
+                     <l>One glance of thine is able to create</l>
+                     <l>A man, an Angell, or of purer ſtate.</l>
+                     <l>How many crownes ſtemm'd with that influence</l>
+                     <l>Had I the night before I went from thence?</l>
+                     <l>I now give credit to thy words, which treat</l>
+                     <l>Of my being in divineſt parts ſo great.</l>
+                     <l>But <hi>Iuliet,</hi> if in this eſteeme I live,</l>
+                     <l>How muſt thou ſhine, that did'ſt all to me give?</l>
+                     <l>And yet thy love has made me raiſe my pride</l>
+                     <l>So high, that all but thee I have deny'd.</l>
+                     <l>There's none does merit, now thou'ſt ſhin'd on mee,</l>
+                     <l>My giving love to her, but onely thee.</l>
+                     <l>And ſince 'tis ſo, ſince thou haſt made me prove</l>
+                     <l>Above the merit of all but thy love,</l>
+                     <l>Let it be thus my <hi>Iuliet,</hi> let me have</l>
+                     <l>The bliſſe of being thy <hi>Romeo</hi> to my grave.</l>
+                     <l>What is it to be baniſht from my earth,</l>
+                     <l>When <hi>Iuliet</hi> to my comfort gives a birth?</l>
+                     <pb facs="tcp:115448:38"/>
+                     <l>When <hi>Iuliet</hi> gives me an Ironick nay,</l>
+                     <l>Bluſhing intreaties for to kiſſe and play?</l>
+                     <l>Let <hi>Tibalt</hi> dye, and <hi>Romeo</hi> be ſent</l>
+                     <l>As a juſt doome) away to baniſhment.</l>
+                     <l>What is it to obſerve ſo heavy a doome,</l>
+                     <l>When I may call my <hi>Iuliet</hi> my home?</l>
+                     <l>For <hi>Iuliet</hi>'s ſmile, who would not undergoe</l>
+                     <l>The clumſey looke of any Prince or moe?</l>
+                     <l>Say <hi>Iuliet</hi> that ſhe loves, all this diſtreſſe</l>
+                     <l>Twill tranſmigrate into a happineſſe.</l>
+                     <l>Yet when I name thy couſin griefe does view</l>
+                     <l>Some blood of thine in him, and that will ſue</l>
+                     <l>To have a tributary brine. The muſe</l>
+                     <l>That ſings his death, may out of th' Laurel chuſe</l>
+                     <l>As faire a branch as any. It is thee</l>
+                     <l>(When hee ſings him) ſhall bleſſe his poetry.</l>
+                     <l>The Deſtinies grew proud, when as they had</l>
+                     <l>Got ſo much <hi>Iuliet</hi> within their ſhade.</l>
+                     <l>And had he thought how much the world he bleſt,</l>
+                     <l>His ſword would have enjoy'd a happy reſt.</l>
+                     <l>Had he but harp'd of being thy kinſman borne,</l>
+                     <l>This fire would ne're have giv'n his aſh the urne.</l>
+                     <l>
+                        <hi>Verona</hi> I muſt leave, law will not let</l>
+                     <l>Me of my ſweet enjoying <hi>Iuliet.</hi>
+                     </l>
+                     <l>The bleſt infuſion I did take from thee,</l>
+                     <l>Makes all the birds ſtrive which ſhould welcome me</l>
+                     <l>With the beſt notes, eſteeming <hi>Romeo</hi>
+                     </l>
+                     <l>The god they ought to ſacrifice unto.</l>
+                     <pb facs="tcp:115448:39"/>
+                     <l>The flowers doe court me, thinking that I am</l>
+                     <l>A prieſt, that from their <hi>Flora</hi> lately came,</l>
+                     <l>To give them ſome rich nature. Here the Roſe</l>
+                     <l>Bids the winde kiſſe her leaves, &amp; ſtraight ſhe ſtrowe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Them for my foot-ſtep, th' Lilly offers up</l>
+                     <l>The richeſt of her beauty in a cup.</l>
+                     <l>All this I had by th' pledge of thy deare love,</l>
+                     <l>Which for to gaine a ſecond time, I'll prove</l>
+                     <l>A deſperate <hi>Leauder:</hi> Breake through Seas,</l>
+                     <l>So with my <hi>Hero</hi> I may take my eaſe.</l>
+                     <l>Let <hi>Neptune</hi> rage, and throw his curles about,</l>
+                     <l>Dart ruine at me, yet I will get out.</l>
+                     <l>And when I am at <hi>Hero</hi>'s Seſtian rowre.</l>
+                     <l>Laugh at the pooreneſſe of the Sea-gods powre.</l>
+                     <l>Let the poore Spider envy lay her ſnare.</l>
+                     <l>All is too weake if <hi>Iuliets</hi> love bids teare,</l>
+                     <l>I'le prove the Swallow, and undoe againe,</l>
+                     <l>What to make perfect, coſt her ſo much paine.</l>
+                     <l>And fly into thy lap, my wiſht-for neſt,</l>
+                     <l>If thou'lt give leave that in it I may reſt.</l>
+                     <l>Did the devouring gulphs betwixt us lye,</l>
+                     <l>Them would I venture <hi>Iuliet</hi> for to ſee.</l>
+                     <l>Let Death gape for to catch me as I come;</l>
+                     <l>Yet I'll not turne before I ſee thy home.</l>
+                     <l>And let not feare wither that roſie bed</l>
+                     <l>Upon thy checkes, nor make the Lilly dead.</l>
+                     <l>Know I am <hi>Romeo</hi> ſtill, know I am he.</l>
+                     <l>VVho vow'd what never ſhall be broke to thee.</l>
+                     <pb facs="tcp:115448:39"/>
+                     <l>My ſelfe ſhall be my ſelf; who dutes, who will</l>
+                     <l>Forſake life for to runne to deadly ill?</l>
+                     <l>VVhen I name <hi>Iuliet,</hi> and voyce ſhee is mine,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> make a boaſt I equall powres divine.</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'m baniſht faire <hi>Verona,</hi> and will be</l>
+                     <l>Baniſht life, yet never untrue to thee.</l>
+                  </div>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:115448:40"/>
+                  <argument>
+                     <head>The Argument of <hi>Li<g ref="char:EOLhyphen"/>ſanders</hi> and <hi>Calistas.</hi>
+                     </head>
+                     <p>
+                        <hi>LIſander</hi> in a fight was ſo wounded, that hee could not hold his ſword, and ſo let it fall: <hi>Cleander</hi> (<hi>Caliſtas</hi> husband <hi>Li<g ref="char:EOLhyphen"/>ſanders</hi> Mrs.) was killd with it, which made him to bee tainted with the murther. <hi>Berontus Cleanders</hi> brother, knowing of the love betweene theſe two, layd <hi>Caliſta</hi> in priſon as a cauſe thereof, but <hi>Liſander</hi> was out of the way. In this diſtreſſe, ſhee writes to him, fearing his having done it, and deſiring to know the certainty.</p>
+                  </argument>
+                  <pb facs="tcp:115448:40"/>
+                  <head>Loves LOOKING GLASSE.</head>
+                  <div type="part">
+                     <head>Calista to Liſander.</head>
+                     <l>Impriſoned both in body, and in minde</l>
+                     <l>
+                        <hi>Caliſta</hi> ſends ſome comfort for to finde</l>
+                     <l>Of thee <hi>Liſander,</hi> that with ioy ſhee may</l>
+                     <l>Swan it out bravely at her dying day.</l>
+                     <l>Would certainty informe thou wert not hee</l>
+                     <l>Whoſe fatall hand enriched deſtiny</l>
+                     <l>With my lov'd Lord <hi>Cleander:</hi> or would death,</l>
+                     <l>When hee uncaves my ſoule, dip every breath</l>
+                     <l>And memory, that has it, in his lake,</l>
+                     <l>His ſacrifice I here my ſelfe would make.</l>
+                     <pb facs="tcp:115448:41"/>
+                     <l>I honour ſonnes to valour. Though it bee</l>
+                     <l>But counterfeit, yet it ſhowes well in thee.</l>
+                     <l>From them, whoſe tongues would favour no report,</l>
+                     <l>My eares have cane thy merit, all the court</l>
+                     <l>Makes their ſole eloquence <hi>Liſander's</hi> name,</l>
+                     <l>Striving whoſe wit ſhould bleſſe the wing of fame,</l>
+                     <l>Worth never was ador'd with ſuch a zeale,</l>
+                     <l>As is <hi>Liſanders.</hi> All things learne to tell</l>
+                     <l>Vs the glad tydings. Every ſilver Spring</l>
+                     <l>Glories, when that <hi>Liſander</hi> it may bring</l>
+                     <l>Vnto a happy ſhoare. Never a friend</l>
+                     <l>Is there of mine, but does thy valour ſend</l>
+                     <l>As if it were a <hi>Marſes.</hi> Some did taſt</l>
+                     <l>(That were their enemies) of what thou haſt;</l>
+                     <l>When as the <hi>Sylvian</hi> gods had left them to *</l>
+                     <l>Ruine, thou conquenedſt that fiercer foe.</l>
+                     <l>For ſtrangers thou didſt hazzard out the dye:</l>
+                     <l>Then muſt <hi>Cleander</hi> know thy cruelty?</l>
+                     <l>Muſt friendſhip have no recompence, but this?</l>
+                     <l>What is in it, that can bee happines?</l>
+                     <l>Each ſonne to <hi>Aeol,</hi> when they waft away,</l>
+                     <l>What thou haſt done, will loſe their dreſſe of day,</l>
+                     <l>And bee turn'd, with its foule infection,</l>
+                     <l>To cloudy vapors. Is <hi>Cleander</hi> gone?</l>
+                     <l>And by <hi>Liſander</hi> has the frowne of fate</l>
+                     <l>Lowr'd on him? O unhappy friendſhips <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ate!</l>
+                     <l>To what did all the ſighs and teares of thine</l>
+                     <l>Tend, when thou didſt commend thy love in brine?</l>
+                     <pb facs="tcp:115448:41"/>
+                     <l>And ſorrowes aire unto the woods, when each</l>
+                     <l>Of th' harbingers thou how to mourne didſt teach?</l>
+                     <l>When as the mary gould deſir'd no ſun,</l>
+                     <l>To ſhew ſhee thy unhappy ſate did moane?</l>
+                     <l>Didſt thou e're hope for to enioy my love.</l>
+                     <l>When treacherous to <hi>Cleander</hi> thou didſt prove?</l>
+                     <l>Thou didſt not play the Politician right</l>
+                     <l>Enough, to kill him in the dead of night.</l>
+                     <l>A prepar'd field had better fitted this,</l>
+                     <l>Since thou art tearm'd a Sonne to nobleneſſe,</l>
+                     <l>One of her chiefeſt too: thy memorie</l>
+                     <l>(Which fild the world) will by this ruin'd bee.</l>
+                     <l>Thus does <hi>Liſander</hi> give reward (they'll ſay)</l>
+                     <l>For his friends love, his friends life takes away.</l>
+                     <l>'Tis falſe, <hi>Liſander</hi> did it not. Yee reeds.</l>
+                     <l>That to each gole of winde doe bend your heads</l>
+                     <l>Yee feathery waving fancies, yee that doe</l>
+                     <l>The falſeſt alwayes give your credits to.</l>
+                     <l>And thou baſe rumour that darſt ſtaine the worth</l>
+                     <l>Of heavens darling! Thunder will breake forth.</l>
+                     <l>And curb thy trumpetting. Though thou beeſt free</l>
+                     <l>A while, the Powers will find their enemie.</l>
+                     <l>Can hee, whom great <hi>Bellona</hi> favoured beſt,</l>
+                     <l>Forſake her deity, and ſo ſtaine his creſt?</l>
+                     <l>Perjur'd <hi>Berontus</hi> but <hi>Cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> * more!</l>
+                     <l>Dare yee wipe of <hi>Liſanders</hi> noble ſcore?</l>
+                     <l>Divinitie, ſhould hee but goe aſtray,</l>
+                     <l>Would turne into ſins night its glorious day.</l>
+                     <pb facs="tcp:115448:42"/>
+                     <l>Hee ſurely is the mover of that ſphere,</l>
+                     <l>And where his ſoule directs, it muſt be there.</l>
+                     <l>Bee bright <hi>Liſander,</hi> ſhew thy innocence,</l>
+                     <l>Let that bright Sun diſplay its influence;</l>
+                     <l>That all may ſee thee moreleſſe, all may know</l>
+                     <l>Thou nee're to ſuch an <hi>Erinnys</hi> didſt owe</l>
+                     <l>Or any thought, or action. What's divine</l>
+                     <l>That will not have ſome clouds before it ſhine?</l>
+                     <l>Yet I'll diſperſe all theſe. And ſince 'tis done</l>
+                     <l>Confeſſe to the world, the deede was mine alone,</l>
+                     <l>'Twas mine <hi>Liſander.</hi> This my right hand did</l>
+                     <l>That which ſo long and often I deni'd.</l>
+                     <l>Yet blame mee not, young courtier, for 'twas thee</l>
+                     <l>That wert the cauſe of this my cruelty.</l>
+                     <l>Thou ſud'ſt for love, and for to recompence</l>
+                     <l>It with a grant, I attempted this offence,</l>
+                     <l>A ſword was found there bloody. All ſecure</l>
+                     <l>I made when I had done the act: ſo pure</l>
+                     <l>An eſſence of rich policy did give</l>
+                     <l>Mee leave, that while its harborour to live.</l>
+                     <l>Not for to rage, becauſe I feare to dye;</l>
+                     <l>(More would I undergoe ſweete friend for thee,</l>
+                     <l>Were I but ſure thou would'ſt conſtant prove.</l>
+                     <l>But how can murderers bee true in love?</l>
+                     <l>Rage did not make mee doe this ſtir'd by that.</l>
+                     <l>Feare? tis (alas) the only thing I hate.</l>
+                     <l>Yet me thinks I ſhould pare it with another.</l>
+                     <l>But what thou ere haſt, I here doe ſmother done.</l>
+                     <pb facs="tcp:115448:42"/>
+                     <l>Live ſtill <hi>Liſander.</hi> And for all thy vowes</l>
+                     <l>Thy ſigns, thy teares, take this, which love allowes.</l>
+                     <l>If thou doeſt the moſt wretcht <hi>Caliſta</hi> ſee</l>
+                     <l>Yeelding to death, as 'tis the lawes decree,</l>
+                     <l>Say to thy ſelfe, <hi>Liſander,</hi> ſhee did dye</l>
+                     <l>Not for <hi>Cleanders</hi> murder, but for thee.</l>
+                     <l>The Judge ſhall yeeld thee guiltleſſe, and for this</l>
+                     <l>Let mee but have one teare my duſt to bliſſe.<note n="*" place="bottom">Hee freed her father and brother from theeves in a wood.</note> 
+                        <note n="*" place="bottom">Her maide who voyc'd abroad the falſe intelligence.</note>
+                     </l>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:115448:43"/>
+                     <head>LOVES LOOKING-GLASSE.</head>
+                     <head>Liſander to Caliſta.</head>
+                     <l>KNowing, by th' ſuperſcription, whence theſe came</l>
+                     <l>And that they had the faire <hi>Caliſta's</hi> name;</l>
+                     <l>Heaven I invok't to make mee worthy to</l>
+                     <l>Enrich my eyes with what the inſide ſhow.</l>
+                     <l>How often I ador'd, how often kiſt</l>
+                     <l>The paper where I thought thy hand not miſt;</l>
+                     <l>For to recount would puzzle any one,</l>
+                     <l>Though he was an Arithmaticion</l>
+                     <l>In loves ſweete merchandiſe. Why, what can come</l>
+                     <l>(Then ſay'd I) from <hi>Caliſta</hi> but a doome</l>
+                     <pb facs="tcp:115448:43"/>
+                     <l>To love her whilſt I live? and where can bliſſe</l>
+                     <l>Ly, if not in ſo great a happineſſe?</l>
+                     <l>Then I preſum'd to read. But when I ſee</l>
+                     <l>A conſpiration for my miſerie,</l>
+                     <l>When I did view my friend <hi>Cleanders</hi> death,</l>
+                     <l>And mee the fatall cauſe given by thy breath,</l>
+                     <l>My ful blowne worth began to ſade mee thought,</l>
+                     <l>My eyes to dimneſſe, as they read, was brought.</l>
+                     <l>Thy letter did ſo gloriouſly appeare,</l>
+                     <l>With thy ſtil'd juſtice, I durſt not come neere,</l>
+                     <l>For feare the rays ſhould burne me: how dare I</l>
+                     <l>Thinke my ſelfe cleere, when thou accuſeſt mee?</l>
+                     <l>My martiall hazzards did not freez my blood</l>
+                     <l>So much, as when I ſaw thy nuntio's brood</l>
+                     <l>Stuck with ſo many of thy angers darts.</l>
+                     <l>Now does <hi>Liſander</hi> read, and now hee ſtarts.</l>
+                     <l>Firſt with a pleaſing calme my heart is bleſt,</l>
+                     <l>Now comes a <hi>Boreas,</hi> and denyes mee reſt.</l>
+                     <l>His raging blaſts he every where ſends, and</l>
+                     <l>Makes my poore ſoule ſubject to their command;</l>
+                     <l>Whilſt the flame is diſperſt through every pore,</l>
+                     <l>Ready to caſt mee unto <hi>Charons</hi> ſhore.</l>
+                     <l>Some words I happily receive of love,</l>
+                     <l>But thouſands my ioys enemies doe prove.</l>
+                     <l>
+                        <hi>Neptune,</hi> in's fury, ne're could give ſuch ſhocks</l>
+                     <l>Vnto a ſhip, as I have by theſe rocks.</l>
+                     <l>
+                        <hi>Iove</hi> ne're had with the gyaganticke race</l>
+                     <l>Such trouble, as I have in one lines ſpace.</l>
+                     <pb facs="tcp:115448:44"/>
+                     <l>Their ſuppos'd truths I tremble to deny,</l>
+                     <l>Becauſe they faine themſelves to come from thee.</l>
+                     <l>Should I deny what is from heaven ſent,</l>
+                     <l>How could I looke for a leſſe puniſhment,</l>
+                     <l>Then it's hate to reward me? Sweeting ſpeake,</l>
+                     <l>My part is only no reply to make.</l>
+                     <l>But will the powers no ſuccour to me lend?</l>
+                     <l>Can my poore innocence finde ne're a friend?</l>
+                     <l>Muſt envy have her will, and juſtice dye?</l>
+                     <l>Muſt vertue now be thought impietie?</l>
+                     <l>I muſt conclude it ſo, for they confine</l>
+                     <l>From libertie thee, th' onely ſtocke divine</l>
+                     <l>Of all Elyſiums governours. Has he</l>
+                     <l>No pitty, whom we call our Deitie?</l>
+                     <l>Love in its ſelfe being ſo juſt a thing,</l>
+                     <l>So holy, ſhould have ſuch a God and King:</l>
+                     <l>How have I been unto my vowes untrue</l>
+                     <l>To merit, ſweet <hi>Caliſta,</hi> this of you?</l>
+                     <l>Or to <hi>Cleanders</hi> friendſhip how falſe have</l>
+                     <l>I been that here my love muſt finde a grave?</l>
+                     <l>Yet have you not the taint as well as I?</l>
+                     <l>Enjoy I not <hi>Calista</hi>'s deſtinie?</l>
+                     <l>To tender arguments ſo 'gainſt me is,</l>
+                     <l>'Twould make me priſoner from my happines,</l>
+                     <l>Elſe I could bring (ô that I nought could bring</l>
+                     <l>But what would make me with <hi>Caliſta</hi> ſing!)</l>
+                     <l>My loyaltie to valour; who can I taint</l>
+                     <l>Me there? <hi>Caliſta,</hi> that ne're erring Saint,</l>
+                     <pb facs="tcp:115448:44"/>
+                     <l>Yet cannot all theſe crimſon gemmes, I weare,</l>
+                     <l>Pleaders for their <hi>Liſander</hi> now appeare?</l>
+                     <l>They can, but dare not, till <hi>Calista's</hi> face</l>
+                     <l>Baniſhes frownes, and takes her candours grace.</l>
+                     <l>My very ſword, if that <hi>Calista</hi> ſay</l>
+                     <l>It muſt, its truſty maſter will betray,</l>
+                     <l>Rather then loſe ſucceſſe to its plot, 'twill runne</l>
+                     <l>To my foe, and helpe there to eclips my Sunne.</l>
+                     <l>Hot in diſputing of a queſtion, ſent</l>
+                     <l>Unto me, faint I grew. A baniſhment</l>
+                     <l>From life I feare, which made me ſoone let goe</l>
+                     <l>My nipping ſophiſter, my ſword, my woe.</l>
+                     <l>Which, ſince I could not find. But (ah!) all this</l>
+                     <l>Rather detracts, then addes to happineſſe.</l>
+                     <l>Why doe I blame my valour? 'cauſe it vail'd</l>
+                     <l>To envies cloudy frownes? could I have ſayl'd</l>
+                     <l>Unto a better ſhoare with my wiſh? 'twas</l>
+                     <l>'Cauſe I ſhould take with faire <hi>Caliſta</hi> place.</l>
+                     <l>Why doe I chide my wounds, becauſe they hid</l>
+                     <l>Themſelves, and would not for their Maſter plead?</l>
+                     <l>Why doe I rage, and queſtion thee my ſword,</l>
+                     <l>'Cauſe thou didſt run from me thy truſty Lord?</l>
+                     <l>Some happy fate<g ref="char:punc">▪</g> that knew my friend ſhould dye,</l>
+                     <l>And ſhe be doom'd the cauſe, inſtructed yee</l>
+                     <l>How you ſhould make me bleſt. I doe accept</l>
+                     <l>What you in ſtore ſo long have for me kept.</l>
+                     <l>We ſhall have nothing when thou'rt gone but ſtrife,</l>
+                     <l>VVho ſhall with thee firſt ſacrifice their life.</l>
+                     <pb facs="tcp:115448:45"/>
+                     <l>The Roſe, the Lilly, Panciby, what's beſt</l>
+                     <l>Of natures joy will ſeeke with thee to reſt.</l>
+                     <l>The meaner beauties will deſire to ſtay</l>
+                     <l>To gaine, when thou art gone, perfections bay.</l>
+                     <l>Both will dye once, both will enjoy one death,</l>
+                     <l>VVho will not with <hi>Caliſta</hi> loſe his breath?</l>
+                  </div>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:115448:45"/>
+                  <head>To my Selfe an Allegory.</head>
+                  <l>ANchor within this port, thy ſhip has yet</l>
+                  <l>The ſmiles of <hi>Neptune,</hi> and no tempeſts met.</l>
+                  <l>Yet has no <hi>Doris</hi> rought her brow, nor given</l>
+                  <l>Envious or angry lookes; All ſmooth and even</l>
+                  <l>Gives thee a welcome yet. Yet <hi>Englands</hi> flood</l>
+                  <l>Curles not her ſilver maine but for thy good.</l>
+                  <l>Yet has <hi>Elyſium</hi>'s calmeſt breath appear'd,</l>
+                  <l>No angry North yet, yet nothing to be fear'd.</l>
+                  <l>The gods have to thy voyage proſperous been,</l>
+                  <l>Truſt not another fortune, here ſtrike in.</l>
+                  <l>O happy ſhoare! when I ſalute thy ſand,</l>
+                  <l>Me thinkes my mother has me at command.</l>
+                  <l>VVhere can an infant thinke to fare the beſt,</l>
+                  <l>If at her dugge it is deny'd to feaſt?</l>
+                  <l>Thou ſtretcheſt forth thine arme to catch thy ſonne</l>
+                  <l>(Sweet <hi>Thameſis</hi>) with ruine halfe undone.</l>
+                  <l>Ah! hold me faſt, leſt a diſſembling wave</l>
+                  <l>(VVith witching charmes) makes me thy true love leave.</l>
+                  <pb facs="tcp:115448:46"/>
+                  <l>For when Sh'has got me at her wiſht-for ſtate,</l>
+                  <l>I muſt indure the rigid front of fate.</l>
+                  <l>Keepe me cloſe in thine armes, for if I finde</l>
+                  <l>Thy friendly pledges, ſet none elſe be kinde.</l>
+                  <l>The care is taken. Ah! bleſt mother, ſee</l>
+                  <l>On thee depends my onely deſtiny.</l>
+                  <l>Let envy bubble, if there's ſuch a fiend</l>
+                  <l>Againſt me. <hi>Thameſis</hi> but prove my friend.</l>
+                  <l>Or let her Dogfiſh barke, I now am free,</l>
+                  <l>VVhen once thy eye yeelds that I happy be.</l>
+                  <l>Then goe no further, here unſaile thy ſhip.</l>
+                  <l>Shee will not hurt, but ſave, if thou'lt be kept.</l>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
